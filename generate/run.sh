@@ -1,0 +1,10 @@
+./makejson.py 2000.xml
+./makejson.py 2001.xml
+./makejson.py 2002.xml
+./makejson.py 2003.xml
+./makejson.py 2004.xml
+./makejson.py 2005.xml
+./makejson.py 2006.xml
+./makejson.py 2007.xml
+./makejson.py 2008.xml
+./makejson.py 2009.xml

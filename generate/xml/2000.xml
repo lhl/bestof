@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>9.0.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/lhl/Music/iTunes/iTunes%20Music/</string>
+	<key>Library Persistent ID</key><string>562F99B6031F9E1E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11163</key>
+		<dict>
+			<key>Track ID</key><integer>11163</integer>
+			<key>Name</key><string>Haligh, Haligh, A Lie, Haligh</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>Fevers And Mirrors</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6468711</integer>
+			<key>Total Time</key><integer>283977</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-03-18T09:09:24Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:31Z</date>
+			<key>Bit Rate</key><integer>182</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>67E4C2BD7AB996F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Bright%20Eyes%20-%20Fevers%20And%20Mirrors/08%20-%20Bright%20Eyes%20-%20Haligh,%20Haligh,%20A%20Lie,%20Haligh.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11493</key>
+		<dict>
+			<key>Track ID</key><integer>11493</integer>
+			<key>Name</key><string>Ghosts of a Future Lost</string>
+			<key>Artist</key><string>Clint Mansell (Featuring Kronos Quartet)</string>
+			<key>Album</key><string>Requiem For A Dream</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2607761</integer>
+			<key>Total Time</key><integer>111046</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-04-06T00:18:23Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:36Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>179AE1AECECCD954</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Clint%20Mansell%20(Featuring%20Kronos%20Quartet)%20-%20Requiem%20For%20A%20Dream/30%20-%20Clint%20Mansell%20(Featuring%20Kronos%20Quartet)%20-%20Ghosts%20of%20a%20Future%20Lost.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11497</key>
+		<dict>
+			<key>Track ID</key><integer>11497</integer>
+			<key>Name</key><string>Lux Aeterna</string>
+			<key>Artist</key><string>Clint Mansell (Featuring Kronos Quartet)</string>
+			<key>Album</key><string>Requiem For A Dream</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5399258</integer>
+			<key>Total Time</key><integer>234448</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-04-06T00:20:56Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:36Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>56565DCC0FA0A81A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Clint%20Mansell%20(Featuring%20Kronos%20Quartet)%20-%20Requiem%20For%20A%20Dream/32%20-%20Clint%20Mansell%20(Featuring%20Kronos%20Quartet)%20-%20Lux%20Aeterna.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11771</key>
+		<dict>
+			<key>Track ID</key><integer>11771</integer>
+			<key>Name</key><string>Photobooth</string>
+			<key>Artist</key><string>Death Cab For Cutie</string>
+			<key>Album</key><string>Forbidden Love EP</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5128434</integer>
+			<key>Total Time</key><integer>226351</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-03-17T02:35:09Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:41Z</date>
+			<key>Bit Rate</key><integer>181</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>6EA48DC0B7C474A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Death%20Cab%20For%20Cutie%20-%20Forbidden%20Love%20EP/01%20-%20Death%20Cab%20For%20Cutie%20-%20Photobooth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12011</key>
+		<dict>
+			<key>Track ID</key><integer>12011</integer>
+			<key>Name</key><string>Son Of Sam</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Figure 8</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4835590</integer>
+			<key>Total Time</key><integer>184398</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-07-18T21:06:23Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:43Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>E47FB7A3BD16ACC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Elliott%20Smith%20-%20Figure%208/01%20-%20Elliott%20Smith%20-%20Son%20Of%20Sam.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12013</key>
+		<dict>
+			<key>Track ID</key><integer>12013</integer>
+			<key>Name</key><string>Somebody That I Used To Know</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Figure 8</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3224713</integer>
+			<key>Total Time</key><integer>129384</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-07-18T21:07:16Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:43Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>7F8984DAA5D18FE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Elliott%20Smith%20-%20Figure%208/02%20-%20Elliott%20Smith%20-%20Somebody%20That%20I%20Used%20To%20Know.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12019</key>
+		<dict>
+			<key>Track ID</key><integer>12019</integer>
+			<key>Name</key><string>Everything Means Nothing To Me</string>
+			<key>Artist</key><string>Elliott Smith</string>
+			<key>Album</key><string>Figure 8</string>
+			<key>Genre</key><string>Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3332281</integer>
+			<key>Total Time</key><integer>144378</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-07-18T21:10:51Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:43Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>AB3D239A70FA0472</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Elliott%20Smith%20-%20Figure%208/05%20-%20Elliott%20Smith%20-%20Everything%20Means%20Nothing%20To%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12425</key>
+		<dict>
+			<key>Track ID</key><integer>12425</integer>
+			<key>Name</key><string>One Year Later</string>
+			<key>Artist</key><string>The Get Up Kids</string>
+			<key>Album</key><string>The EP's: Red Letter Day and Woodson</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5329531</integer>
+			<key>Total Time</key><integer>182622</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-12-27T07:16:11Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:53Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Sort Album</key><string>EP's: Red Letter Day and Woodson</string>
+			<key>Sort Artist</key><string>Get Up Kids</string>
+			<key>Persistent ID</key><string>1CF5D7C2D32DF324</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Get%20Up%20Kids%20-%20The%20EP's-%20Red%20Letter%20Day%20and%20Woodson/01%20-%20The%20Get%20Up%20Kids%20-%20One%20Year%20Later.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12433</key>
+		<dict>
+			<key>Track ID</key><integer>12433</integer>
+			<key>Name</key><string>Mass Pike</string>
+			<key>Artist</key><string>The Get Up Kids</string>
+			<key>Album</key><string>The EP's: Red Letter Day and Woodson</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6327167</integer>
+			<key>Total Time</key><integer>222119</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-12-27T07:16:12Z</date>
+			<key>Date Added</key><date>2009-12-20T05:18:53Z</date>
+			<key>Bit Rate</key><integer>227</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Sort Album</key><string>EP's: Red Letter Day and Woodson</string>
+			<key>Sort Artist</key><string>Get Up Kids</string>
+			<key>Persistent ID</key><string>B8D8A2704A048001</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Get%20Up%20Kids%20-%20The%20EP's-%20Red%20Letter%20Day%20and%20Woodson/05%20-%20The%20Get%20Up%20Kids%20-%20Mass%20Pike.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13317</key>
+		<dict>
+			<key>Track ID</key><integer>13317</integer>
+			<key>Name</key><string>Engine Heart</string>
+			<key>Artist</key><string>Mirah</string>
+			<key>Album</key><string>You Think It's Like This But Really It's Like This</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3153490</integer>
+			<key>Total Time</key><integer>155193</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-03-17T10:07:49Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:04Z</date>
+			<key>Bit Rate</key><integer>162</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>BE57A753D32A75A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Mirah%20-%20You%20Think%20It's%20Like%20This%20But%20Really%20It's%20Like%20This/08%20-%20Mirah%20-%20Engine%20Heart.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14365</key>
+		<dict>
+			<key>Track ID</key><integer>14365</integer>
+			<key>Name</key><string>goodbye</string>
+			<key>Artist</key><string>silver scooter</string>
+			<key>Album</key><string>goodbye ep</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3999461</integer>
+			<key>Total Time</key><integer>153939</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-01-21T15:10:50Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:16Z</date>
+			<key>Bit Rate</key><integer>207</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.92</string>
+			<key>Persistent ID</key><string>C1AB155C0AA9D2B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Silver%20Scooter%20-%20Goodbye%20EP/01%20-%20silver%20scooter%20-%20goodbye.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14399</key>
+		<dict>
+			<key>Track ID</key><integer>14399</integer>
+			<key>Name</key><string>Blue Law</string>
+			<key>Artist</key><string>The Blue Law</string>
+			<key>Album</key><string>Silver Scooter</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6884851</integer>
+			<key>Total Time</key><integer>263314</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2002-06-24T04:10:52Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:16Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Sort Artist</key><string>Blue Law</string>
+			<key>Persistent ID</key><string>34D5487CF7CE27B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Silver%20Scooter%20-%20The%20Blue%20Law/02%20-%20The%20Blue%20Law%20-%20Blue%20Law.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14579</key>
+		<dict>
+			<key>Track ID</key><integer>14579</integer>
+			<key>Name</key><string>generosity</string>
+			<key>Artist</key><string>super xx man</string>
+			<key>Album</key><string>volume v</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4526605</integer>
+			<key>Total Time</key><integer>206811</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2002-03-28T06:16:59Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:18Z</date>
+			<key>Bit Rate</key><integer>174</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b3 / LAME 3.90.2-ICL</string>
+			<key>Persistent ID</key><string>9AD02323185D12E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/super%20xx%20man%20-%20volume%20v/01%20-%20super%20xx%20man%20-%20generosity.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15009</key>
+		<dict>
+			<key>Track ID</key><integer>15009</integer>
+			<key>Name</key><string>Walk On</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8726346</integer>
+			<key>Total Time</key><integer>296254</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2002-06-21T11:18:46Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:25Z</date>
+			<key>Bit Rate</key><integer>235</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Persistent ID</key><string>4B84154BAF0E5A08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/U2%20-%20All%20That%20You%20Can't%20Leave%20Behind/04%20-%20U2%20-%20Walk%20On.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15011</key>
+		<dict>
+			<key>Track ID</key><integer>15011</integer>
+			<key>Name</key><string>Kite</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7125892</integer>
+			<key>Total Time</key><integer>266840</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2002-06-21T11:21:40Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:26Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Persistent ID</key><string>98AE36B8871B3A56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/U2%20-%20All%20That%20You%20Can't%20Leave%20Behind/05%20-%20U2%20-%20Kite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15013</key>
+		<dict>
+			<key>Track ID</key><integer>15013</integer>
+			<key>Name</key><string>In A Little While</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4859011</integer>
+			<key>Total Time</key><integer>219219</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2002-06-21T11:24:09Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:26Z</date>
+			<key>Bit Rate</key><integer>177</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Persistent ID</key><string>C4DEC8D268A48AAB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/U2%20-%20All%20That%20You%20Can't%20Leave%20Behind/06%20-%20U2%20-%20In%20A%20Little%20While.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15015</key>
+		<dict>
+			<key>Track ID</key><integer>15015</integer>
+			<key>Name</key><string>Wild Honey</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>All That You Can't Leave Behind</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6208284</integer>
+			<key>Total Time</key><integer>226716</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2002-06-21T11:26:23Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:26Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Persistent ID</key><string>A8D03491889CF22B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/U2%20-%20All%20That%20You%20Can't%20Leave%20Behind/07%20-%20U2%20-%20Wild%20Honey.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15029</key>
+		<dict>
+			<key>Track ID</key><integer>15029</integer>
+			<key>Name</key><string>Always</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album</key><string>Beautiful Day (Pt. 1)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5514429</integer>
+			<key>Total Time</key><integer>226664</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2002-06-22T11:27:00Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:26Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC 0.9b4 / LAME 3.90.2-ICL</string>
+			<key>Persistent ID</key><string>4890D0A124194CDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/U2%20-%20Beautiful%20Day%20(Pt.%201)/03%20-%20U2%20-%20Always.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15751</key>
+		<dict>
+			<key>Track ID</key><integer>15751</integer>
+			<key>Name</key><string>Cautioners</string>
+			<key>Artist</key><string>Jimmy Eat World</string>
+			<key>Album</key><string>Jimmy Eat World &#38; Jebediah Split</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6434467</integer>
+			<key>Total Time</key><integer>229694</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-03-20T07:47:14Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:40Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Persistent ID</key><string>6FEB2E7520D31DA6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Various%20Artists%20-%20Jimmy%20Eat%20World%20&#38;%20Jebediah%20Split/03%20-%20Jimmy%20Eat%20World%20-%20Cautioners.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16101</key>
+		<dict>
+			<key>Track ID</key><integer>16101</integer>
+			<key>Name</key><string>Falling At Your Feet (with Daniel Lanois)</string>
+			<key>Artist</key><string>Bono</string>
+			<key>Album</key><string>The Million Dollar Hotel (OST)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6204467</integer>
+			<key>Total Time</key><integer>294791</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2003-04-07T01:16:50Z</date>
+			<key>Date Added</key><date>2009-12-20T05:19:50Z</date>
+			<key>Bit Rate</key><integer>168</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>EAC v0.9b4 / LAME 3.93.1</string>
+			<key>Sort Album</key><string>Million Dollar Hotel (OST)</string>
+			<key>Persistent ID</key><string>B089A030B9E3D61C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/LAME/Various%20Artists%20-%20The%20Million%20Dollar%20Hotel%20(OST)/05%20-%20Bono%20-%20Falling%20At%20Your%20Feet%20(with%20Daniel%20Lanois).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16525</key>
+		<dict>
+			<key>Track ID</key><integer>16525</integer>
+			<key>Name</key><string>Somewhere Over The Rainbow/What A Wonderful World</string>
+			<key>Artist</key><string>Israel Kamakawiwo'ole</string>
+			<key>Album</key><string>Facing Future</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7575874</integer>
+			<key>Total Time</key><integer>308088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2007-01-02T06:18:34Z</date>
+			<key>Date Added</key><date>2009-12-20T06:40:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1268</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FAE8C5CAACAEDCC1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/_misc/14%20Somewhere%20Over%20The%20Rainbow_What%20A%20Wonderful%20World.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>23507</key>
+		<dict>
+			<key>Track ID</key><integer>23507</integer>
+			<key>Name</key><string>Isolate</string>
+			<key>Artist</key><string>Bender</string>
+			<key>Album</key><string>Jehovah's Hitlist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8036421</integer>
+			<key>Total Time</key><integer>226063</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-12-27T07:16:11Z</date>
+			<key>Date Added</key><date>2009-12-26T09:28:16Z</date>
+			<key>Bit Rate</key><integer>284</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CEBD11ABF8D71C95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Bender%20-%202000%20-%20Jehovah's%20Hitlist/02%20-%20Isolate.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>23559</key>
+		<dict>
+			<key>Track ID</key><integer>23559</integer>
+			<key>Name</key><string>Weekends (ft Esthero)</string>
+			<key>Artist</key><string>Black Eyed Peas</string>
+			<key>Album</key><string>Bridging The Gap (Retail)</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6882723</integer>
+			<key>Total Time</key><integer>287190</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2006-07-10T23:19:40Z</date>
+			<key>Date Added</key><date>2009-12-26T09:28:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>-+- EGO -+- 2000 -+- EGO -+-</string>
+			<key>Persistent ID</key><string>EC5E4907AA8A9A29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Black%20Eyed%20Peas%20-%202000%20-%20Bridging%20the%20Gap/002-black_eyed_peas-weekends_(ft_esthero)-ego.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>23713</key>
+		<dict>
+			<key>Track ID</key><integer>23713</integer>
+			<key>Name</key><string>Motion Sickness</string>
+			<key>Artist</key><string>Bright Eyes</string>
+			<key>Album</key><string>Blood Of The Young 7"</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15233694</integer>
+			<key>Total Time</key><integer>380839</integer>
+			<key>Track Number</key><integer>109</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-12-28T03:26:29Z</date>
+			<key>Date Added</key><date>2009-12-26T09:28:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3344636317</integer>
+			<key>Play Date UTC</key><date>2009-12-26T09:38:37Z</date>
+			<key>Persistent ID</key><string>13E219F43DA2B155</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Bright%20Eyes%20-%202000%20-%20Blood%20of%20the%20Young%20(7-inch)/01-motion_sickness.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24059</key>
+		<dict>
+			<key>Track ID</key><integer>24059</integer>
+			<key>Name</key><string>a song for our fathers</string>
+			<key>Artist</key><string>explosions in the sky</string>
+			<key>Album</key><string>how strange, innocence</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8232461</integer>
+			<key>Total Time</key><integer>343013</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2004-08-19T01:24:58Z</date>
+			<key>Date Added</key><date>2009-12-26T09:29:25Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>better living thru mikescien</string>
+			<key>Sort Name</key><string>song for our fathers</string>
+			<key>Persistent ID</key><string>259F6E9C8F3B1CAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Explosions%20in%20the%20Sky%20-%202000%20-%20How%20Strange%20Innocence/01_A_Song_For_Our_Fathers.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24063</key>
+		<dict>
+			<key>Track ID</key><integer>24063</integer>
+			<key>Name</key><string>magic hours</string>
+			<key>Artist</key><string>explosions in the sky</string>
+			<key>Album</key><string>how strange, innocence</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12229195</integer>
+			<key>Total Time</key><integer>509544</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2004-08-19T01:19:56Z</date>
+			<key>Date Added</key><date>2009-12-26T09:29:26Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>better living thru mikescien</string>
+			<key>Persistent ID</key><string>65EB670DCA47CEBC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Explosions%20in%20the%20Sky%20-%202000%20-%20How%20Strange%20Innocence/03_Magic_Hours.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24417</key>
+		<dict>
+			<key>Track ID</key><integer>24417</integer>
+			<key>Name</key><string>Measure 1</string>
+			<key>Artist</key><string>Matt Pond PA</string>
+			<key>Album</key><string>Measure</string>
+			<key>Genre</key><string>Indie Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6100549</integer>
+			<key>Total Time</key><integer>254040</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-06-25T18:52:32Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3522</integer>
+			<key>Persistent ID</key><string>9A9B23E7731D0DA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Matt%20Pond%20PA%20-%202000%20-%20Measure/matt%20pond%20pa%20-%20measure%20-%2001%20-%20measure%201.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24439</key>
+		<dict>
+			<key>Track ID</key><integer>24439</integer>
+			<key>Name</key><string>3rd Planet</string>
+			<key>Artist</key><string>Modest Mouse</string>
+			<key>Album</key><string>The Moon And Antarctica [Remastered]</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6154071</integer>
+			<key>Total Time</key><integer>239177</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-12-27T07:16:12Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:22Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Moon And Antarctica [Remastered]</string>
+			<key>Persistent ID</key><string>F91E2066A4B08D87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Modest%20Mouse%20-%202000%20-%20The%20Moon%20And%20Antarctica%20(Remastered%20-%202004)/01-modest_mouse-3rd_planet.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24491</key>
+		<dict>
+			<key>Track ID</key><integer>24491</integer>
+			<key>Name</key><string>I'm Like a Bird</string>
+			<key>Artist</key><string>Nelly Furtado</string>
+			<key>Album</key><string>Sweet and Pungent Dreamworks Sampler</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6180864</integer>
+			<key>Total Time</key><integer>246935</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2001-06-18T22:31:44Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6AC431419134FB0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Nelly%20Furtado%20-%202000%20-%20Whoa%20Nelly/Nelly%20Furtado%20-%20I'm%20Like%20A%20Bird.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24493</key>
+		<dict>
+			<key>Track ID</key><integer>24493</integer>
+			<key>Name</key><string>Well, Well</string>
+			<key>Artist</key><string>Nelly Furtado</string>
+			<key>Album</key><string>Whoa, Nelly!</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6180864</integer>
+			<key>Total Time</key><integer>257854</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2001-06-18T22:25:23Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:25Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>1F3395D0E673C9A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Nelly%20Furtado%20-%202000%20-%20Whoa%20Nelly/Nelly%20Furtado%20-%20Well%20Well%20(I%20Feel%20You).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24549</key>
+		<dict>
+			<key>Track ID</key><integer>24549</integer>
+			<key>Name</key><string>Vivian</string>
+			<key>Artist</key><string>Nerf Herder</string>
+			<key>Album Artist</key><string>Nerf Herder</string>
+			<key>Album</key><string>How to Meet Girls</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5284382</integer>
+			<key>Total Time</key><integer>166582</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2008-12-15T08:23:14Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:42Z</date>
+			<key>Bit Rate</key><integer>253</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Nerf Herder scored an unexpected novelty hit in 1997 with "Van Halen," a jab at Sammy Hagar. By that point, Van Halen wasn't very contemporary, and staleness seems to be Nerf Herder's specialty. How to Meet Girls, the second release by these Weird Al Yank</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Nerf Herder</string>
+			<key>Persistent ID</key><string>4EB15A96A8BA5FE0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Nerf%20Herder%20-%202000%20-%20How%20to%20Meet%20Girls/01-Vivian.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24583</key>
+		<dict>
+			<key>Track ID</key><integer>24583</integer>
+			<key>Name</key><string>A Million Things To Do</string>
+			<key>Artist</key><string>Palaxy Tracks</string>
+			<key>Album</key><string>The Long Wind Down</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4387440</integer>
+			<key>Total Time</key><integer>182804</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-08-14T03:08:50Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Long Wind Down</string>
+			<key>Sort Name</key><string>Million Things To Do</string>
+			<key>Persistent ID</key><string>B8C8AFC18FDDF1DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Palaxy%20Tracks%20-%202000%20-%20The%20Long%20Wind%20Down/04%20-%20a%20million%20things%20to%20do.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24637</key>
+		<dict>
+			<key>Track ID</key><integer>24637</integer>
+			<key>Name</key><string>Too Young</string>
+			<key>Artist</key><string>Phoenix</string>
+			<key>Album</key><string>United</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5303047</integer>
+			<key>Total Time</key><integer>199627</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2006-05-12T04:08:10Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:43Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Track 2</string>
+			<key>Persistent ID</key><string>541C7F34D6F32710</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Phoenix%20-%202000%20-%20United/Phoenix%20-%2002%20-%20Too%20Young.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>24965</key>
+		<dict>
+			<key>Track ID</key><integer>24965</integer>
+			<key>Name</key><string>Wide Open Windows</string>
+			<key>Artist</key><string>Sig Transit Gloria</string>
+			<key>Album</key><string>2-8-2000</string>
+			<key>Genre</key><string>Emo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3952833</integer>
+			<key>Total Time</key><integer>164675</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2009-12-27T07:16:12Z</date>
+			<key>Date Added</key><date>2009-12-26T09:30:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>None</string>
+			<key>Persistent ID</key><string>003AC2A862DB441B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Sig%20Transit%20Gloria%20-%202000%20-%202-8-2000/Sig%20Transit%20Gloria%20-%202-8-2000%20-%2001%20-%20Wide%20Open%20Windows.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>25677</key>
+		<dict>
+			<key>Track ID</key><integer>25677</integer>
+			<key>Name</key><string>Building Peaks</string>
+			<key>Artist</key><string>Tristeza</string>
+			<key>Album</key><string>Dream Signals in Full Circles</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6985119</integer>
+			<key>Total Time</key><integer>291395</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2005-12-03T08:45:43Z</date>
+			<key>Date Added</key><date>2009-12-26T09:31:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>4B644FB7E101CA26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Tristeza%20-%202000%20-%20Dream%20Signals%20in%20Full%20Circles/01%20Building%20Peaks.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>31107</key>
+		<dict>
+			<key>Track ID</key><integer>31107</integer>
+			<key>Name</key><string>anchor</string>
+			<key>Artist</key><string>Subset</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1898242</integer>
+			<key>Total Time</key><integer>118622</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2006-12-05T12:36:40Z</date>
+			<key>Date Added</key><date>2009-12-26T23:30:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>61CFCAEEE1BFE25E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Subset%20-%202000%20-%20Overpass/anchor.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>31121</key>
+		<dict>
+			<key>Track ID</key><integer>31121</integer>
+			<key>Name</key><string>guaranty</string>
+			<key>Artist</key><string>Subset</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1946307</integer>
+			<key>Total Time</key><integer>121626</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2006-12-05T12:46:37Z</date>
+			<key>Date Added</key><date>2009-12-26T23:30:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>B1DF97F8D263F4FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Subset%20-%202000%20-%20Overpass/guaranty.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>31131</key>
+		<dict>
+			<key>Track ID</key><integer>31131</integer>
+			<key>Name</key><string>winter79</string>
+			<key>Artist</key><string>Subset</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3109906</integer>
+			<key>Total Time</key><integer>194351</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2006-12-05T12:47:57Z</date>
+			<key>Date Added</key><date>2009-12-26T23:30:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>0413F7142F9DA1D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Subset%20-%202000%20-%20Overpass/winter79.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>2000</string>
+			<key>Playlist ID</key><integer>101508</integer>
+			<key>Playlist Persistent ID</key><string>3C2003BE56AB294A</string>
+			<key>Parent Persistent ID</key><string>3E849C79C2DC153F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>23507</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11497</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12433</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15751</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24549</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24583</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>24965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31121</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>31131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14579</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>25677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15029</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
