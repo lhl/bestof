@@ -11,9 +11,9 @@
 	<key>Library Persistent ID</key><string>562F99B6031F9E1E</string>
 	<key>Tracks</key>
 	<dict>
-		<key>11681</key>
+		<key>11973</key>
 		<dict>
-			<key>Track ID</key><integer>11681</integer>
+			<key>Track ID</key><integer>11973</integer>
 			<key>Name</key><string>Art Is Hard</string>
 			<key>Artist</key><string>Cursive</string>
 			<key>Album</key><string>The Ugly Organ</string>
@@ -34,9 +34,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>11699</key>
+		<key>11991</key>
 		<dict>
-			<key>Track ID</key><integer>11699</integer>
+			<key>Track ID</key><integer>11991</integer>
 			<key>Name</key><string>Staying Alive</string>
 			<key>Artist</key><string>Cursive</string>
 			<key>Album</key><string>The Ugly Organ</string>
@@ -60,9 +60,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13113</key>
+		<key>13405</key>
 		<dict>
-			<key>Track ID</key><integer>13113</integer>
+			<key>Track ID</key><integer>13405</integer>
 			<key>Name</key><string>Cough Coughing</string>
 			<key>Artist</key><string>Menomena</string>
 			<key>Album</key><string>I Am the Fun Blame Monster</string>
@@ -82,9 +82,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13115</key>
+		<key>13407</key>
 		<dict>
-			<key>Track ID</key><integer>13115</integer>
+			<key>Track ID</key><integer>13407</integer>
 			<key>Name</key><string>The Late Great Libido</string>
 			<key>Artist</key><string>Menomena</string>
 			<key>Album</key><string>I Am the Fun Blame Monster</string>
@@ -105,9 +105,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13121</key>
+		<key>13413</key>
 		<dict>
-			<key>Track ID</key><integer>13121</integer>
+			<key>Track ID</key><integer>13413</integer>
 			<key>Name</key><string>Strongest Man in the World</string>
 			<key>Artist</key><string>Menomena</string>
 			<key>Album</key><string>I Am the Fun Blame Monster</string>
@@ -127,9 +127,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13131</key>
+		<key>13423</key>
 		<dict>
-			<key>Track ID</key><integer>13131</integer>
+			<key>Track ID</key><integer>13423</integer>
 			<key>Name</key><string>I.O.U.</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Old World Underground, Where Are You Now?</string>
@@ -150,9 +150,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13137</key>
+		<key>13429</key>
 		<dict>
-			<key>Track ID</key><integer>13137</integer>
+			<key>Track ID</key><integer>13429</integer>
 			<key>Name</key><string>Combat Baby</string>
 			<key>Artist</key><string>Metric</string>
 			<key>Album</key><string>Old World Underground, Where Are You Now?</string>
@@ -173,9 +173,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13987</key>
+		<key>14279</key>
 		<dict>
-			<key>Track ID</key><integer>13987</integer>
+			<key>Track ID</key><integer>14279</integer>
 			<key>Name</key><string>2 + 2 = 5 (The Lukewarm.)</string>
 			<key>Artist</key><string>Radiohead</string>
 			<key>Album</key><string>Hail to the Thief</string>
@@ -196,9 +196,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>13989</key>
+		<key>14281</key>
 		<dict>
-			<key>Track ID</key><integer>13989</integer>
+			<key>Track ID</key><integer>14281</integer>
 			<key>Name</key><string>Sit Down. Stand Up. (Snakes &#38; Ladders.)</string>
 			<key>Artist</key><string>Radiohead</string>
 			<key>Album</key><string>Hail to the Thief</string>
@@ -219,9 +219,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14001</key>
+		<key>14293</key>
 		<dict>
-			<key>Track ID</key><integer>14001</integer>
+			<key>Track ID</key><integer>14293</integer>
 			<key>Name</key><string>The Gloaming. (Softly Open our Mouths in the Cold.)</string>
 			<key>Artist</key><string>Radiohead</string>
 			<key>Album</key><string>Hail to the Thief</string>
@@ -243,9 +243,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14003</key>
+		<key>14295</key>
 		<dict>
-			<key>Track ID</key><integer>14003</integer>
+			<key>Track ID</key><integer>14295</integer>
 			<key>Name</key><string>There there. (The Boney King of Nowhere.)</string>
 			<key>Artist</key><string>Radiohead</string>
 			<key>Album</key><string>Hail to the Thief</string>
@@ -266,9 +266,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14243</key>
+		<key>14535</key>
 		<dict>
-			<key>Track ID</key><integer>14243</integer>
+			<key>Track ID</key><integer>14535</integer>
 			<key>Name</key><string>American Thing</string>
 			<key>Artist</key><string>Scott Andrew and the Walkingbirds</string>
 			<key>Album</key><string>American Thing EP</string>
@@ -289,9 +289,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14749</key>
+		<key>15041</key>
 		<dict>
-			<key>Track ID</key><integer>14749</integer>
+			<key>Track ID</key><integer>15041</integer>
 			<key>Name</key><string>Superstition</string>
 			<key>Artist</key><string>The Kills</string>
 			<key>Album</key><string>Keep On Your Mean Side</string>
@@ -313,9 +313,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14751</key>
+		<key>15043</key>
 		<dict>
-			<key>Track ID</key><integer>14751</integer>
+			<key>Track ID</key><integer>15043</integer>
 			<key>Name</key><string>Cat Claw</string>
 			<key>Artist</key><string>The Kills</string>
 			<key>Album</key><string>Keep On Your Mean Side</string>
@@ -337,9 +337,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14815</key>
+		<key>15107</key>
 		<dict>
-			<key>Track ID</key><integer>14815</integer>
+			<key>Track ID</key><integer>15107</integer>
 			<key>Name</key><string>The District Sleeps Alone Tonight</string>
 			<key>Artist</key><string>The Postal Service</string>
 			<key>Album</key><string>Give Up</string>
@@ -362,9 +362,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14817</key>
+		<key>15109</key>
 		<dict>
-			<key>Track ID</key><integer>14817</integer>
+			<key>Track ID</key><integer>15109</integer>
 			<key>Name</key><string>Such Great Heights</string>
 			<key>Artist</key><string>The Postal Service</string>
 			<key>Album</key><string>Give Up</string>
@@ -386,9 +386,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14829</key>
+		<key>15121</key>
 		<dict>
-			<key>Track ID</key><integer>14829</integer>
+			<key>Track ID</key><integer>15121</integer>
 			<key>Name</key><string>This Place Is A Prison</string>
 			<key>Artist</key><string>The Postal Service</string>
 			<key>Album</key><string>Give Up</string>
@@ -410,9 +410,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14839</key>
+		<key>15131</key>
 		<dict>
-			<key>Track ID</key><integer>14839</integer>
+			<key>Track ID</key><integer>15131</integer>
 			<key>Name</key><string>We Will Become Silouettes (The Shins)</string>
 			<key>Artist</key><string>The Postal Service</string>
 			<key>Album</key><string>Such Great Heights</string>
@@ -434,9 +434,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>14841</key>
+		<key>15133</key>
 		<dict>
-			<key>Track ID</key><integer>14841</integer>
+			<key>Track ID</key><integer>15133</integer>
 			<key>Name</key><string>Such Great Heights</string>
 			<key>Artist</key><string>Iron &#38; Wine</string>
 			<key>Album</key><string>Such Great Heights</string>
@@ -457,9 +457,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15603</key>
+		<key>15895</key>
 		<dict>
-			<key>Track ID</key><integer>15603</integer>
+			<key>Track ID</key><integer>15895</integer>
 			<key>Name</key><string>Green</string>
 			<key>Artist</key><string>Dealership</string>
 			<key>Album</key><string>Creative Commons</string>
@@ -480,9 +480,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15969</key>
+		<key>16261</key>
 		<dict>
-			<key>Track ID</key><integer>15969</integer>
+			<key>Track ID</key><integer>16261</integer>
 			<key>Name</key><string>Worked Up So Sexual</string>
 			<key>Artist</key><string>The Faint</string>
 			<key>Album</key><string>Saddle Creek 50 (Disc 1)</string>
@@ -504,9 +504,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15973</key>
+		<key>16265</key>
 		<dict>
-			<key>Track ID</key><integer>15973</integer>
+			<key>Track ID</key><integer>16265</integer>
 			<key>Name</key><string>Wonderful Scar </string>
 			<key>Artist</key><string>Now It's Overhead</string>
 			<key>Album</key><string>Saddle Creek 50 (Disc 1)</string>
@@ -527,9 +527,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15975</key>
+		<key>16267</key>
 		<dict>
-			<key>Track ID</key><integer>15975</integer>
+			<key>Track ID</key><integer>16267</integer>
 			<key>Name</key><string>Dark Cycle</string>
 			<key>Artist</key><string>Now It's Overhead</string>
 			<key>Album</key><string>Saddle Creek 50 (Disc 1)</string>
@@ -550,9 +550,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15993</key>
+		<key>16285</key>
 		<dict>
-			<key>Track ID</key><integer>15993</integer>
+			<key>Track ID</key><integer>16285</integer>
 			<key>Name</key><string>I Am An Island</string>
 			<key>Artist</key><string>The Good Life</string>
 			<key>Album</key><string>Saddle Creek 50 (Disc 2)</string>
@@ -574,9 +574,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>15999</key>
+		<key>16291</key>
 		<dict>
-			<key>Track ID</key><integer>15999</integer>
+			<key>Track ID</key><integer>16291</integer>
 			<key>Name</key><string>Beautiful Things Can Come From The Dark</string>
 			<key>Artist</key><string>Azure Ray</string>
 			<key>Album</key><string>Saddle Creek 50 (Disc 2)</string>
@@ -597,9 +597,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16001</key>
+		<key>16293</key>
 		<dict>
-			<key>Track ID</key><integer>16001</integer>
+			<key>Track ID</key><integer>16293</integer>
 			<key>Name</key><string>Sick and Soar</string>
 			<key>Artist</key><string>Sorry About Dresden</string>
 			<key>Album</key><string>Saddle Creek 50 (Disc 2)</string>
@@ -620,9 +620,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16011</key>
+		<key>16303</key>
 		<dict>
-			<key>Track ID</key><integer>16011</integer>
+			<key>Track ID</key><integer>16303</integer>
 			<key>Name</key><string>One Foot In Front of the Other</string>
 			<key>Artist</key><string>Bright Eyes</string>
 			<key>Album</key><string>Saddle Creek 50 (Disc 2)</string>
@@ -643,9 +643,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16503</key>
+		<key>16795</key>
 		<dict>
-			<key>Track ID</key><integer>16503</integer>
+			<key>Track ID</key><integer>16795</integer>
 			<key>Name</key><string>Verbal (Boom Bip Remix)</string>
 			<key>Artist</key><string>Amon Tobin</string>
 			<key>Album</key><string>Verbal Remixes And Collaborations EP</string>
@@ -666,9 +666,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16505</key>
+		<key>16797</key>
 		<dict>
-			<key>Track ID</key><integer>16505</integer>
+			<key>Track ID</key><integer>16797</integer>
 			<key>Name</key><string>Love Of My Life Worldwide (Feat. Queen Latifah, Angie Stone &#38; Bahamadia) </string>
 			<key>Artist</key><string>Erykah Badu</string>
 			<key>Album</key><string>Worldwide Underground</string>
@@ -689,9 +689,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16509</key>
+		<key>16801</key>
 		<dict>
-			<key>Track ID</key><integer>16509</integer>
+			<key>Track ID</key><integer>16801</integer>
 			<key>Name</key><string>Love Of My Life Worldwide</string>
 			<key>Artist</key><string>Erykah Badu</string>
 			<key>Album</key><string>Worldwide Underground</string>
@@ -711,9 +711,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>16583</key>
+		<key>16875</key>
 		<dict>
-			<key>Track ID</key><integer>16583</integer>
+			<key>Track ID</key><integer>16875</integer>
 			<key>Name</key><string>Lucky Star (Jaxx Klub Remix)</string>
 			<key>Artist</key><string>Basement Jaxx</string>
 			<key>Kind</key><string>MPEG audio file</string>
@@ -730,9 +730,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>19547</key>
+		<key>19839</key>
 		<dict>
-			<key>Track ID</key><integer>19547</integer>
+			<key>Track ID</key><integer>19839</integer>
 			<key>Name</key><string>La paix</string>
 			<key>Artist</key><string>Amadou &#38; Mariam</string>
 			<key>Album</key><string>Dimanche à Bamako</string>
@@ -754,9 +754,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21105</key>
+		<key>21397</key>
 		<dict>
-			<key>Track ID</key><integer>21105</integer>
+			<key>Track ID</key><integer>21397</integer>
 			<key>Name</key><string>That Ol' Boom Bap</string>
 			<key>Artist</key><string>Apathy</string>
 			<key>Album</key><string>It's The Bootleg, Muthafuckas! Vol. 1 (Disc 2)</string>
@@ -776,9 +776,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21813</key>
+		<key>22105</key>
 		<dict>
-			<key>Track ID</key><integer>21813</integer>
+			<key>Track ID</key><integer>22105</integer>
 			<key>Name</key><string>White trash heroes</string>
 			<key>Artist</key><string>Archers of Loaf</string>
 			<key>Album Artist</key><string>The Archers of Loaf</string>
@@ -801,9 +801,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21815</key>
+		<key>22107</key>
 		<dict>
-			<key>Track ID</key><integer>21815</integer>
+			<key>Track ID</key><integer>22107</integer>
 			<key>Name</key><string>One Heavy February</string>
 			<key>Artist</key><string>Architecture in Helsinki</string>
 			<key>Album</key><string>Fingers Crossed</string>
@@ -823,9 +823,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21817</key>
+		<key>22109</key>
 		<dict>
-			<key>Track ID</key><integer>21817</integer>
+			<key>Track ID</key><integer>22109</integer>
 			<key>Name</key><string>Souvenirs</string>
 			<key>Artist</key><string>Architecture in Helsinki</string>
 			<key>Album</key><string>Fingers Crossed</string>
@@ -845,9 +845,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21821</key>
+		<key>22113</key>
 		<dict>
-			<key>Track ID</key><integer>21821</integer>
+			<key>Track ID</key><integer>22113</integer>
 			<key>Name</key><string>Scissor Paper Rock</string>
 			<key>Artist</key><string>Architecture in Helsinki</string>
 			<key>Album</key><string>Fingers Crossed</string>
@@ -867,9 +867,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21823</key>
+		<key>22115</key>
 		<dict>
-			<key>Track ID</key><integer>21823</integer>
+			<key>Track ID</key><integer>22115</integer>
 			<key>Name</key><string>To and Fro</string>
 			<key>Artist</key><string>Architecture in Helsinki</string>
 			<key>Album</key><string>Fingers Crossed</string>
@@ -889,9 +889,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21827</key>
+		<key>22119</key>
 		<dict>
-			<key>Track ID</key><integer>21827</integer>
+			<key>Track ID</key><integer>22119</integer>
 			<key>Name</key><string>The Owls Go</string>
 			<key>Artist</key><string>Architecture in Helsinki</string>
 			<key>Album</key><string>Fingers Crossed</string>
@@ -912,9 +912,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21831</key>
+		<key>22123</key>
 		<dict>
-			<key>Track ID</key><integer>21831</integer>
+			<key>Track ID</key><integer>22123</integer>
 			<key>Name</key><string>Kindling</string>
 			<key>Artist</key><string>Architecture in Helsinki</string>
 			<key>Album</key><string>Fingers Crossed</string>
@@ -934,9 +934,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21835</key>
+		<key>22127</key>
 		<dict>
-			<key>Track ID</key><integer>21835</integer>
+			<key>Track ID</key><integer>22127</integer>
 			<key>Name</key><string>Like A Call</string>
 			<key>Artist</key><string>Architecture in Helsinki</string>
 			<key>Album</key><string>Fingers Crossed</string>
@@ -956,9 +956,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>21841</key>
+		<key>22133</key>
 		<dict>
-			<key>Track ID</key><integer>21841</integer>
+			<key>Track ID</key><integer>22133</integer>
 			<key>Name</key><string>Kindling (Winter Version)</string>
 			<key>Artist</key><string>Architecture In Helsinki</string>
 			<key>Album</key><string>Kindling [EP]</string>
@@ -978,9 +978,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>23233</key>
+		<key>23525</key>
 		<dict>
-			<key>Track ID</key><integer>23233</integer>
+			<key>Track ID</key><integer>23525</integer>
 			<key>Name</key><string>Dear Atom, You Do Not Want Children. Love, Atom</string>
 			<key>Artist</key><string>Atom and His Package</string>
 			<key>Album Artist</key><string>Atom &#38; His Package</string>
@@ -1003,9 +1003,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>23239</key>
+		<key>23531</key>
 		<dict>
-			<key>Track ID</key><integer>23239</integer>
+			<key>Track ID</key><integer>23531</integer>
 			<key>Name</key><string>I Am Downright Amazed at What I Can Destroy With Just a Hammer</string>
 			<key>Artist</key><string>Atom and His Package</string>
 			<key>Album Artist</key><string>Atom &#38; His Package</string>
@@ -1028,9 +1028,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>28995</key>
+		<key>29287</key>
 		<dict>
-			<key>Track ID</key><integer>28995</integer>
+			<key>Track ID</key><integer>29287</integer>
 			<key>Name</key><string>Pyramid</string>
 			<key>Artist</key><string>Backini</string>
 			<key>Album</key><string>Threads</string>
@@ -1050,9 +1050,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29025</key>
+		<key>29317</key>
 		<dict>
-			<key>Track ID</key><integer>29025</integer>
+			<key>Track ID</key><integer>29317</integer>
 			<key>Name</key><string>Good Luck (feat. Lisa Kekaula)</string>
 			<key>Artist</key><string>Basement Jaxx</string>
 			<key>Album</key><string>Kish Kash</string>
@@ -1072,9 +1072,31 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29041</key>
+		<key>29327</key>
 		<dict>
-			<key>Track ID</key><integer>29041</integer>
+			<key>Track ID</key><integer>29327</integer>
+			<key>Name</key><string>Supersonic (feat. Cotlyn Jackson)</string>
+			<key>Artist</key><string>Basement Jaxx</string>
+			<key>Album</key><string>Kish Kash</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7774781</integer>
+			<key>Total Time</key><integer>323892</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2003-09-05T02:38:41Z</date>
+			<key>Date Added</key><date>2009-12-26T11:23:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>EBF4E8F4DE32D8B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Basement%20Jaxx%20-%202003%20-%20Kish%20Kash/06%20-%20Supersonic%20(feat.%20Cotlyn%20Jackson).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>29333</key>
+		<dict>
+			<key>Track ID</key><integer>29333</integer>
 			<key>Name</key><string>If Ever I Recover</string>
 			<key>Artist</key><string>Basement Jaxx</string>
 			<key>Album</key><string>Kish Kash</string>
@@ -1094,9 +1116,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29043</key>
+		<key>29335</key>
 		<dict>
-			<key>Track ID</key><integer>29043</integer>
+			<key>Track ID</key><integer>29335</integer>
 			<key>Name</key><string>Cish Cash (feat. Siouxsie Sioux)</string>
 			<key>Artist</key><string>Basement Jaxx</string>
 			<key>Album</key><string>Kish Kash</string>
@@ -1116,9 +1138,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29045</key>
+		<key>29337</key>
 		<dict>
-			<key>Track ID</key><integer>29045</integer>
+			<key>Track ID</key><integer>29337</integer>
 			<key>Name</key><string>Tonight (feat. Phoebe)</string>
 			<key>Artist</key><string>Basement Jaxx</string>
 			<key>Album</key><string>Kish Kash</string>
@@ -1138,9 +1160,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29047</key>
+		<key>29339</key>
 		<dict>
-			<key>Track ID</key><integer>29047</integer>
+			<key>Track ID</key><integer>29339</integer>
 			<key>Name</key><string>Hot And Cold</string>
 			<key>Artist</key><string>Basement Jaxx</string>
 			<key>Album</key><string>Kish Kash</string>
@@ -1160,9 +1182,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29051</key>
+		<key>29343</key>
 		<dict>
-			<key>Track ID</key><integer>29051</integer>
+			<key>Track ID</key><integer>29343</integer>
 			<key>Name</key><string>Feels Like Home (feat. Meshell Ndegeocello)</string>
 			<key>Artist</key><string>Basement Jaxx</string>
 			<key>Album</key><string>Kish Kash</string>
@@ -1182,9 +1204,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29107</key>
+		<key>29399</key>
 		<dict>
-			<key>Track ID</key><integer>29107</integer>
+			<key>Track ID</key><integer>29399</integer>
 			<key>Name</key><string>Stars And Sons</string>
 			<key>Artist</key><string>Broken Social Scene</string>
 			<key>Album</key><string>You Forgot It In People</string>
@@ -1203,9 +1225,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29109</key>
+		<key>29401</key>
 		<dict>
-			<key>Track ID</key><integer>29109</integer>
+			<key>Track ID</key><integer>29401</integer>
 			<key>Name</key><string>Almost Crimes (Radio Kills Remix)</string>
 			<key>Artist</key><string>Broken Social Scene</string>
 			<key>Album</key><string>You Forgot It In People</string>
@@ -1229,9 +1251,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29115</key>
+		<key>29407</key>
 		<dict>
-			<key>Track ID</key><integer>29115</integer>
+			<key>Track ID</key><integer>29407</integer>
 			<key>Name</key><string>Anthems For A Seventeen Year-Old Girl</string>
 			<key>Artist</key><string>Broken Social Scene</string>
 			<key>Album</key><string>You Forgot It In People</string>
@@ -1252,9 +1274,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29117</key>
+		<key>29409</key>
 		<dict>
-			<key>Track ID</key><integer>29117</integer>
+			<key>Track ID</key><integer>29409</integer>
 			<key>Name</key><string>Cause = Time</string>
 			<key>Artist</key><string>Broken Social Scene</string>
 			<key>Album</key><string>You Forgot It In People</string>
@@ -1275,9 +1297,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29123</key>
+		<key>29415</key>
 		<dict>
-			<key>Track ID</key><integer>29123</integer>
+			<key>Track ID</key><integer>29415</integer>
 			<key>Name</key><string>Lover's Spit</string>
 			<key>Artist</key><string>Broken Social Scene</string>
 			<key>Album</key><string>You Forgot It In People</string>
@@ -1301,9 +1323,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29127</key>
+		<key>29419</key>
 		<dict>
-			<key>Track ID</key><integer>29127</integer>
+			<key>Track ID</key><integer>29419</integer>
 			<key>Name</key><string>Pitter Patter Goes My Heart</string>
 			<key>Artist</key><string>Broken Social Scene</string>
 			<key>Album</key><string>You Forgot It In People</string>
@@ -1325,9 +1347,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29209</key>
+		<key>29501</key>
 		<dict>
-			<key>Track ID</key><integer>29209</integer>
+			<key>Track ID</key><integer>29501</integer>
 			<key>Name</key><string>Keep It Clean</string>
 			<key>Artist</key><string>Camera Obscura</string>
 			<key>Album</key><string>Underachievers Please Try Harder</string>
@@ -1347,9 +1369,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29221</key>
+		<key>29513</key>
 		<dict>
-			<key>Track ID</key><integer>29221</integer>
+			<key>Track ID</key><integer>29513</integer>
 			<key>Name</key><string>Let Me Go Home</string>
 			<key>Artist</key><string>Camera Obscura</string>
 			<key>Album</key><string>Underachievers Please Try Harder</string>
@@ -1369,9 +1391,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29341</key>
+		<key>29633</key>
 		<dict>
-			<key>Track ID</key><integer>29341</integer>
+			<key>Track ID</key><integer>29633</integer>
 			<key>Name</key><string>Billy Liar</string>
 			<key>Artist</key><string>Decemberists</string>
 			<key>Album</key><string>Her Majesty the Decemberists</string>
@@ -1390,9 +1412,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29345</key>
+		<key>29637</key>
 		<dict>
-			<key>Track ID</key><integer>29345</integer>
+			<key>Track ID</key><integer>29637</integer>
 			<key>Name</key><string>The Gymnast, High Above the Gr</string>
 			<key>Artist</key><string>Decemberists</string>
 			<key>Album</key><string>Her Majesty the Decemberists</string>
@@ -1412,9 +1434,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29351</key>
+		<key>29643</key>
 		<dict>
-			<key>Track ID</key><integer>29351</integer>
+			<key>Track ID</key><integer>29643</integer>
 			<key>Name</key><string>The Soldiering Life</string>
 			<key>Artist</key><string>Decemberists</string>
 			<key>Album</key><string>Her Majesty the Decemberists</string>
@@ -1434,9 +1456,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29373</key>
+		<key>29665</key>
 		<dict>
-			<key>Track ID</key><integer>29373</integer>
+			<key>Track ID</key><integer>29665</integer>
 			<key>Name</key><string>We Know Something You Don't Know (Featuring Akil/Chali 2NA &#38; Akil)</string>
 			<key>Artist</key><string>DJ Format</string>
 			<key>Composer</key><string>C. Sterwart/D. Givens/M. Ford</string>
@@ -1461,9 +1483,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29377</key>
+		<key>29669</key>
 		<dict>
-			<key>Track ID</key><integer>29377</integer>
+			<key>Track ID</key><integer>29669</integer>
 			<key>Name</key><string>The Hit Song (Featuring Abdominal)</string>
 			<key>Artist</key><string>DJ Format</string>
 			<key>Composer</key><string>A.J. Bernstein/M. Ford</string>
@@ -1489,9 +1511,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29425</key>
+		<key>29717</key>
 		<dict>
-			<key>Track ID</key><integer>29425</integer>
+			<key>Track ID</key><integer>29717</integer>
 			<key>Name</key><string>Double Dee &#38; Steinski - Lesson</string>
 			<key>Artist</key><string>DJ Shadow</string>
 			<key>Album</key><string>Ultimate Lessons</string>
@@ -1510,9 +1532,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29549</key>
+		<key>29841</key>
 		<dict>
-			<key>Track ID</key><integer>29549</integer>
+			<key>Track ID</key><integer>29841</integer>
 			<key>Name</key><string>Diane</string>
 			<key>Artist</key><string>Guster</string>
 			<key>Album Artist</key><string>Guster</string>
@@ -1534,9 +1556,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29585</key>
+		<key>29877</key>
 		<dict>
-			<key>Track ID</key><integer>29585</integer>
+			<key>Track ID</key><integer>29877</integer>
 			<key>Name</key><string>Oto-Mutsu-San</string>
 			<key>Artist</key><string>Hifana</string>
 			<key>Album</key><string>Fresh Push Breakin'</string>
@@ -1557,9 +1579,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29607</key>
+		<key>29899</key>
 		<dict>
-			<key>Track ID</key><integer>29607</integer>
+			<key>Track ID</key><integer>29899</integer>
 			<key>Name</key><string>The Mood You're In</string>
 			<key>Artist</key><string>I Am Robot And Proud</string>
 			<key>Album</key><string>Grace Days</string>
@@ -1582,9 +1604,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29623</key>
+		<key>29915</key>
 		<dict>
-			<key>Track ID</key><integer>29623</integer>
+			<key>Track ID</key><integer>29915</integer>
 			<key>Name</key><string>We're Still The Weaker Sex</string>
 			<key>Artist</key><string>I Love You But I've Chosen Darkness</string>
 			<key>Album</key><string>I Love You But I've Chosen Darkness</string>
@@ -1606,9 +1628,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29625</key>
+		<key>29917</key>
 		<dict>
-			<key>Track ID</key><integer>29625</integer>
+			<key>Track ID</key><integer>29917</integer>
 			<key>Name</key><string>The Less You See</string>
 			<key>Artist</key><string>I Love You But I've Chosen Darkness</string>
 			<key>Album</key><string>I Love You But I've Chosen Darkness</string>
@@ -1631,9 +1653,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29627</key>
+		<key>29919</key>
 		<dict>
-			<key>Track ID</key><integer>29627</integer>
+			<key>Track ID</key><integer>29919</integer>
 			<key>Name</key><string>I Want To Die In The Hot Summer</string>
 			<key>Artist</key><string>I Love You But I've Chosen Darkness</string>
 			<key>Album</key><string>I Love You But I've Chosen Darkness</string>
@@ -1655,9 +1677,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29645</key>
+		<key>29937</key>
 		<dict>
-			<key>Track ID</key><integer>29645</integer>
+			<key>Track ID</key><integer>29937</integer>
 			<key>Name</key><string>Sprout and the Bean</string>
 			<key>Artist</key><string>Joanna Newsom</string>
 			<key>Album</key><string>Yarn and Glue EP</string>
@@ -1679,9 +1701,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29659</key>
+		<key>29951</key>
 		<dict>
-			<key>Track ID</key><integer>29659</integer>
+			<key>Track ID</key><integer>29951</integer>
 			<key>Name</key><string>The Songwriter</string>
 			<key>Artist</key><string>Julie Doiron</string>
 			<key>Album</key><string>Julie Doiron-Okkervil River Split</string>
@@ -1702,9 +1724,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29675</key>
+		<key>29967</key>
 		<dict>
-			<key>Track ID</key><integer>29675</integer>
+			<key>Track ID</key><integer>29967</integer>
 			<key>Name</key><string>Birthday</string>
 			<key>Artist</key><string>Junior Boys</string>
 			<key>Album Artist</key><string>Junior Boys</string>
@@ -1725,9 +1747,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29689</key>
+		<key>29981</key>
 		<dict>
-			<key>Track ID</key><integer>29689</integer>
+			<key>Track ID</key><integer>29981</integer>
 			<key>Name</key><string>Heaven Only Knows</string>
 			<key>Artist</key><string>K-oS</string>
 			<key>Album</key><string>Exit </string>
@@ -1747,9 +1769,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29707</key>
+		<key>29999</key>
 		<dict>
-			<key>Track ID</key><integer>29707</integer>
+			<key>Track ID</key><integer>29999</integer>
 			<key>Name</key><string>Neutroniks</string>
 			<key>Artist</key><string>K-oS</string>
 			<key>Album</key><string>Exit </string>
@@ -1769,9 +1791,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29709</key>
+		<key>30001</key>
 		<dict>
-			<key>Track ID</key><integer>29709</integer>
+			<key>Track ID</key><integer>30001</integer>
 			<key>Name</key><string>Superstarr Pt. Zero</string>
 			<key>Artist</key><string>K-oS</string>
 			<key>Album</key><string>Exit </string>
@@ -1791,9 +1813,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29901</key>
+		<key>30193</key>
 		<dict>
-			<key>Track ID</key><integer>29901</integer>
+			<key>Track ID</key><integer>30193</integer>
 			<key>Name</key><string>fashionable uninvited</string>
 			<key>Artist</key><string>Mellowdrone</string>
 			<key>Album</key><string>a demonstration of intellectual property</string>
@@ -1815,9 +1837,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>29975</key>
+		<key>30267</key>
 		<dict>
-			<key>Track ID</key><integer>29975</integer>
+			<key>Track ID</key><integer>30267</integer>
 			<key>Name</key><string>Damage</string>
 			<key>Artist</key><string>Non-Prophets</string>
 			<key>Album</key><string>Hope</string>
@@ -1837,9 +1859,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30051</key>
+		<key>30343</key>
 		<dict>
-			<key>Track ID</key><integer>30051</integer>
+			<key>Track ID</key><integer>30343</integer>
 			<key>Name</key><string>The Sediment</string>
 			<key>Artist</key><string>Palaxy Tracks</string>
 			<key>Album</key><string>Cedarland</string>
@@ -1864,9 +1886,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30155</key>
+		<key>30447</key>
 		<dict>
-			<key>Track ID</key><integer>30155</integer>
+			<key>Track ID</key><integer>30447</integer>
 			<key>Name</key><string>Heavy Petting</string>
 			<key>Artist</key><string>Red Snapper</string>
 			<key>Album</key><string>Red Snapper</string>
@@ -1890,9 +1912,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30225</key>
+		<key>30517</key>
 		<dict>
-			<key>Track ID</key><integer>30225</integer>
+			<key>Track ID</key><integer>30517</integer>
 			<key>Name</key><string>Blue Be-Bop</string>
 			<key>Artist</key><string>RIP SLYME</string>
 			<key>Composer</key><string>Ryo-Z, Ilmari, PES And SU</string>
@@ -1916,9 +1938,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30333</key>
+		<key>30625</key>
 		<dict>
-			<key>Track ID</key><integer>30333</integer>
+			<key>Track ID</key><integer>30625</integer>
 			<key>Name</key><string>There's A Line In The Sand.  Are You Afraid To Cross It?</string>
 			<key>Artist</key><string>Some By Sea</string>
 			<key>Album</key><string>Get Off The Ground If You're Scared</string>
@@ -1939,9 +1961,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30371</key>
+		<key>30663</key>
 		<dict>
-			<key>Track ID</key><integer>30371</integer>
+			<key>Track ID</key><integer>30663</integer>
 			<key>Name</key><string>The Way We Get By</string>
 			<key>Artist</key><string>Spoon</string>
 			<key>Album Artist</key><string>Spoon</string>
@@ -1968,9 +1990,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30385</key>
+		<key>30677</key>
 		<dict>
-			<key>Track ID</key><integer>30385</integer>
+			<key>Track ID</key><integer>30677</integer>
 			<key>Name</key><string>What the Snowman Learned about Love</string>
 			<key>Artist</key><string>Stars</string>
 			<key>Album</key><string>Heart</string>
@@ -1992,9 +2014,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30387</key>
+		<key>30679</key>
 		<dict>
-			<key>Track ID</key><integer>30387</integer>
+			<key>Track ID</key><integer>30679</integer>
 			<key>Name</key><string>Elevator Love Letter</string>
 			<key>Artist</key><string>Stars</string>
 			<key>Album Artist</key><string>Stars</string>
@@ -2017,9 +2039,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30407</key>
+		<key>30699</key>
 		<dict>
-			<key>Track ID</key><integer>30407</integer>
+			<key>Track ID</key><integer>30699</integer>
 			<key>Name</key><string>A Heart Without A Mind (Radio Mix)</string>
 			<key>Artist</key><string>Styrofoam</string>
 			<key>Album</key><string>A Heart Without A Mind EP</string>
@@ -2042,9 +2064,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30467</key>
+		<key>30759</key>
 		<dict>
-			<key>Track ID</key><integer>30467</integer>
+			<key>Track ID</key><integer>30759</integer>
 			<key>Name</key><string>Where Have All The Rude Boys Gone?</string>
 			<key>Artist</key><string>Ted Leo &#38; the Pharmacists</string>
 			<key>Album</key><string>Hearts of Oak</string>
@@ -2066,9 +2088,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30497</key>
+		<key>30789</key>
 		<dict>
-			<key>Track ID</key><integer>30497</integer>
+			<key>Track ID</key><integer>30789</integer>
 			<key>Name</key><string>Bleeding Powers</string>
 			<key>Artist</key><string>Ted Leo &#38; the Pharmacists</string>
 			<key>Album</key><string>Tell Balgeary, Balgury is Dead</string>
@@ -2091,9 +2113,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30531</key>
+		<key>30823</key>
 		<dict>
-			<key>Track ID</key><integer>30531</integer>
+			<key>Track ID</key><integer>30823</integer>
 			<key>Name</key><string>Guitari 2600</string>
 			<key>Artist</key><string>The 32-Bit Handhelds</string>
 			<key>Album</key><string>The 32-Bit Handhelds</string>
@@ -2119,9 +2141,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30563</key>
+		<key>30855</key>
 		<dict>
-			<key>Track ID</key><integer>30563</integer>
+			<key>Track ID</key><integer>30855</integer>
 			<key>Name</key><string>No Cars Go</string>
 			<key>Artist</key><string>The Arcade Fire</string>
 			<key>Album</key><string>Arcade Fire</string>
@@ -2146,9 +2168,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30569</key>
+		<key>30861</key>
 		<dict>
-			<key>Track ID</key><integer>30569</integer>
+			<key>Track ID</key><integer>30861</integer>
 			<key>Name</key><string>Headlights Look Like Diamonds</string>
 			<key>Artist</key><string>The Arcade Fire</string>
 			<key>Album</key><string>Arcade Fire</string>
@@ -2173,9 +2195,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30573</key>
+		<key>30865</key>
 		<dict>
-			<key>Track ID</key><integer>30573</integer>
+			<key>Track ID</key><integer>30865</integer>
 			<key>Name</key><string>Heartbeats</string>
 			<key>Artist</key><string>The Knife</string>
 			<key>Album</key><string>Deep Cuts</string>
@@ -2198,9 +2220,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30601</key>
+		<key>30893</key>
 		<dict>
-			<key>Track ID</key><integer>30601</integer>
+			<key>Track ID</key><integer>30893</integer>
 			<key>Name</key><string>Blue Diamonds</string>
 			<key>Artist</key><string>The Long Winters</string>
 			<key>Album Artist</key><string>The Long Winters</string>
@@ -2224,9 +2246,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30665</key>
+		<key>30957</key>
 		<dict>
-			<key>Track ID</key><integer>30665</integer>
+			<key>Track ID</key><integer>30957</integer>
 			<key>Name</key><string>So Says I</string>
 			<key>Artist</key><string>The Shins</string>
 			<key>Album</key><string>So Says I-CDS</string>
@@ -2248,9 +2270,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30671</key>
+		<key>30963</key>
 		<dict>
-			<key>Track ID</key><integer>30671</integer>
+			<key>Track ID</key><integer>30963</integer>
 			<key>Name</key><string>Back to Gray</string>
 			<key>Artist</key><string>The Thermals</string>
 			<key>Album</key><string>More Parts Per Million</string>
@@ -2272,9 +2294,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30707</key>
+		<key>30999</key>
 		<dict>
-			<key>Track ID</key><integer>30707</integer>
+			<key>Track ID</key><integer>30999</integer>
 			<key>Name</key><string>Faster Gun</string>
 			<key>Artist</key><string>The Wrens</string>
 			<key>Album</key><string>The Meadowlands</string>
@@ -2298,9 +2320,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30717</key>
+		<key>31009</key>
 		<dict>
-			<key>Track ID</key><integer>30717</integer>
+			<key>Track ID</key><integer>31009</integer>
 			<key>Name</key><string>Everyone Choose Sides</string>
 			<key>Artist</key><string>The Wrens</string>
 			<key>Album</key><string>The Meadowlands</string>
@@ -2324,9 +2346,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30787</key>
+		<key>31079</key>
 		<dict>
-			<key>Track ID</key><integer>30787</integer>
+			<key>Track ID</key><integer>31079</integer>
 			<key>Name</key><string>Eye For An Eye</string>
 			<key>Artist</key><string>U.N.K.L.E.</string>
 			<key>Album</key><string>Never, Never, Land</string>
@@ -2346,9 +2368,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30801</key>
+		<key>31093</key>
 		<dict>
-			<key>Track ID</key><integer>30801</integer>
+			<key>Track ID</key><integer>31093</integer>
 			<key>Name</key><string>Reign</string>
 			<key>Artist</key><string>U.N.K.L.E.</string>
 			<key>Album</key><string>Never, Never, Land</string>
@@ -2368,9 +2390,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30839</key>
+		<key>31131</key>
 		<dict>
-			<key>Track ID</key><integer>30839</integer>
+			<key>Track ID</key><integer>31131</integer>
 			<key>Name</key><string>(Manifest)</string>
 			<key>Artist</key><string>The Weakerthans</string>
 			<key>Album</key><string>Reconstruction Site</string>
@@ -2394,9 +2416,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30845</key>
+		<key>31137</key>
 		<dict>
-			<key>Track ID</key><integer>30845</integer>
+			<key>Track ID</key><integer>31137</integer>
 			<key>Name</key><string>Psalm for the Elks Lodge Last</string>
 			<key>Artist</key><string>The Weakerthans</string>
 			<key>Album</key><string>Reconstruction Site</string>
@@ -2420,9 +2442,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30847</key>
+		<key>31139</key>
 		<dict>
-			<key>Track ID</key><integer>30847</integer>
+			<key>Track ID</key><integer>31139</integer>
 			<key>Name</key><string>Plea From a Cat Named Virtute</string>
 			<key>Artist</key><string>The Weakerthans</string>
 			<key>Album</key><string>Reconstruction Site</string>
@@ -2446,9 +2468,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30851</key>
+		<key>31143</key>
 		<dict>
-			<key>Track ID</key><integer>30851</integer>
+			<key>Track ID</key><integer>31143</integer>
 			<key>Name</key><string>Time's Arrow</string>
 			<key>Artist</key><string>The Weakerthans</string>
 			<key>Album</key><string>Reconstruction Site</string>
@@ -2469,9 +2491,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>30957</key>
+		<key>31249</key>
 		<dict>
-			<key>Track ID</key><integer>30957</integer>
+			<key>Track ID</key><integer>31249</integer>
 			<key>Name</key><string>Apistat Commander</string>
 			<key>Artist</key><string>Xiu Xiu</string>
 			<key>Album</key><string>A Promise</string>
@@ -2491,9 +2513,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>31025</key>
+		<key>31317</key>
 		<dict>
-			<key>Track ID</key><integer>31025</integer>
+			<key>Track ID</key><integer>31317</integer>
 			<key>Name</key><string>Maps</string>
 			<key>Artist</key><string>Yeah Yeah Yeahs</string>
 			<key>Album</key><string>Fever to Tell</string>
@@ -2515,9 +2537,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42899</key>
+		<key>43191</key>
 		<dict>
-			<key>Track ID</key><integer>42899</integer>
+			<key>Track ID</key><integer>43191</integer>
 			<key>Name</key><string>Modern Kicks</string>
 			<key>Artist</key><string>The Exploding Hearts</string>
 			<key>Album</key><string>Guitar Romantic</string>
@@ -2539,9 +2561,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42901</key>
+		<key>43193</key>
 		<dict>
-			<key>Track ID</key><integer>42901</integer>
+			<key>Track ID</key><integer>43193</integer>
 			<key>Name</key><string>Sleeping Aides And Razorblades</string>
 			<key>Artist</key><string>The Exploding Hearts</string>
 			<key>Album</key><string>Guitar Romantic</string>
@@ -2563,9 +2585,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42903</key>
+		<key>43195</key>
 		<dict>
-			<key>Track ID</key><integer>42903</integer>
+			<key>Track ID</key><integer>43195</integer>
 			<key>Name</key><string>Jacknuggeted</string>
 			<key>Artist</key><string>Manitoba</string>
 			<key>Album</key><string>Up In Flames</string>
@@ -2586,9 +2608,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42905</key>
+		<key>43197</key>
 		<dict>
-			<key>Track ID</key><integer>42905</integer>
+			<key>Track ID</key><integer>43197</integer>
 			<key>Name</key><string>Uprock And Invigorate (Feat. Dabrye)</string>
 			<key>Artist</key><string>Prefuse 73</string>
 			<key>Album</key><string>One Word Extinguisher</string>
@@ -2609,9 +2631,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42907</key>
+		<key>43199</key>
 		<dict>
-			<key>Track ID</key><integer>42907</integer>
+			<key>Track ID</key><integer>43199</integer>
 			<key>Name</key><string>One Word Extinguisher</string>
 			<key>Artist</key><string>Prefuse 73</string>
 			<key>Album</key><string>One Word Extinguisher</string>
@@ -2632,9 +2654,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42909</key>
+		<key>43201</key>
 		<dict>
-			<key>Track ID</key><integer>42909</integer>
+			<key>Track ID</key><integer>43201</integer>
 			<key>Name</key><string>Me &#38; Giuliani Down By The Schoolyard (A True Story)</string>
 			<key>Artist</key><string>!!!</string>
 			<key>Album</key><string>Me &#38; Giuliani Down By The Schoolyard (A True Story) EP</string>
@@ -2655,9 +2677,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42911</key>
+		<key>43203</key>
 		<dict>
-			<key>Track ID</key><integer>42911</integer>
+			<key>Track ID</key><integer>43203</integer>
 			<key>Name</key><string>Unrecorded</string>
 			<key>Artist</key><string>M83</string>
 			<key>Album</key><string>Dead Cities, Red Seas &#38; Lost Ghosts</string>
@@ -2678,9 +2700,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42913</key>
+		<key>43205</key>
 		<dict>
-			<key>Track ID</key><integer>42913</integer>
+			<key>Track ID</key><integer>43205</integer>
 			<key>Name</key><string>Run Into Flowers</string>
 			<key>Artist</key><string>M83</string>
 			<key>Album</key><string>Dead Cities, Red Seas &#38; Lost Ghosts</string>
@@ -2701,9 +2723,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42915</key>
+		<key>43207</key>
 		<dict>
-			<key>Track ID</key><integer>42915</integer>
+			<key>Track ID</key><integer>43207</integer>
 			<key>Name</key><string>My Angel Rocks Back And Forth</string>
 			<key>Artist</key><string>Four Tet</string>
 			<key>Album</key><string>Rounds</string>
@@ -2724,9 +2746,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42917</key>
+		<key>43209</key>
 		<dict>
-			<key>Track ID</key><integer>42917</integer>
+			<key>Track ID</key><integer>43209</integer>
 			<key>Name</key><string>As Serious As Your Life</string>
 			<key>Artist</key><string>Four Tet</string>
 			<key>Album</key><string>Rounds</string>
@@ -2747,9 +2769,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>42919</key>
+		<key>43211</key>
 		<dict>
-			<key>Track ID</key><integer>42919</integer>
+			<key>Track ID</key><integer>43211</integer>
 			<key>Name</key><string>She Moves She</string>
 			<key>Artist</key><string>Four Tet</string>
 			<key>Album</key><string>Rounds</string>
@@ -2770,9 +2792,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43051</key>
+		<key>43343</key>
 		<dict>
-			<key>Track ID</key><integer>43051</integer>
+			<key>Track ID</key><integer>43343</integer>
 			<key>Name</key><string>House Of Jealous Lovers</string>
 			<key>Artist</key><string>The Rapture</string>
 			<key>Album</key><string>Echoes</string>
@@ -2793,9 +2815,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43055</key>
+		<key>43347</key>
 		<dict>
-			<key>Track ID</key><integer>43055</integer>
+			<key>Track ID</key><integer>43347</integer>
 			<key>Name</key><string>Hope for Us</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -2821,9 +2843,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43057</key>
+		<key>43349</key>
 		<dict>
-			<key>Track ID</key><integer>43057</integer>
+			<key>Track ID</key><integer>43349</integer>
 			<key>Name</key><string>Naive</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -2849,9 +2871,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43059</key>
+		<key>43351</key>
 		<dict>
-			<key>Track ID</key><integer>43059</integer>
+			<key>Track ID</key><integer>43351</integer>
 			<key>Name</key><string>Anxious Arms</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -2877,9 +2899,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43061</key>
+		<key>43353</key>
 		<dict>
-			<key>Track ID</key><integer>43061</integer>
+			<key>Track ID</key><integer>43353</integer>
 			<key>Name</key><string>The Fold Out</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -2906,9 +2928,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43063</key>
+		<key>43355</key>
 		<dict>
-			<key>Track ID</key><integer>43063</integer>
+			<key>Track ID</key><integer>43355</integer>
 			<key>Name</key><string>The Gift Horse</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -2935,9 +2957,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43069</key>
+		<key>43361</key>
 		<dict>
-			<key>Track ID</key><integer>43069</integer>
+			<key>Track ID</key><integer>43361</integer>
 			<key>Name</key><string>For Once in Your Life</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -2963,9 +2985,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43071</key>
+		<key>43363</key>
 		<dict>
-			<key>Track ID</key><integer>43071</integer>
+			<key>Track ID</key><integer>43363</integer>
 			<key>Name</key><string>Abandon! Abandon!</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -2991,9 +3013,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43073</key>
+		<key>43365</key>
 		<dict>
-			<key>Track ID</key><integer>43073</integer>
+			<key>Track ID</key><integer>43365</integer>
 			<key>Name</key><string>Troublesome</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -3019,9 +3041,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43077</key>
+		<key>43369</key>
 		<dict>
-			<key>Track ID</key><integer>43077</integer>
+			<key>Track ID</key><integer>43369</integer>
 			<key>Name</key><string>Above the Waves</string>
 			<key>Artist</key><string>The Jealous Sound</string>
 			<key>Album Artist</key><string>The Jealous Sound</string>
@@ -3046,9 +3068,9 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
-		<key>43083</key>
+		<key>43375</key>
 		<dict>
-			<key>Track ID</key><integer>43083</integer>
+			<key>Track ID</key><integer>43375</integer>
 			<key>Name</key><string>Move Your Feet</string>
 			<key>Artist</key><string>Junior Senior</string>
 			<key>Album</key><string>D-D-Don't Don't Stop The Beat</string>
@@ -3068,400 +3090,506 @@
 			<key>File Folder Count</key><integer>-1</integer>
 			<key>Library Folder Count</key><integer>-1</integer>
 		</dict>
+		<key>105225</key>
+		<dict>
+			<key>Track ID</key><integer>105225</integer>
+			<key>Name</key><string>Gleaming Auction</string>
+			<key>Artist</key><string>Snow Patrol</string>
+			<key>Album</key><string>Final Straw</string>
+			<key>Genre</key><string>Polydor</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3970254</integer>
+			<key>Total Time</key><integer>124055</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2004-05-21T16:46:12Z</date>
+			<key>Date Added</key><date>2009-12-28T10:42:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3344812983</integer>
+			<key>Play Date UTC</key><date>2009-12-28T10:43:03Z</date>
+			<key>Persistent ID</key><string>F4C6C0787F5D06DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Snow%20Patrol%20-%20Final%20Straw/Snow_Patrol-03_Gleaming_Auction.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>105260</key>
+		<dict>
+			<key>Track ID</key><integer>105260</integer>
+			<key>Name</key><string>Crayon</string>
+			<key>Artist</key><string>Manitoba</string>
+			<key>Album</key><string>Up In Flames</string>
+			<key>Genre</key><string>Electro-Organic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3850240</integer>
+			<key>Total Time</key><integer>160391</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2003-07-04T22:42:10Z</date>
+			<key>Date Added</key><date>2009-12-28T12:38:43Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>CD75AADB66D98EA4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Pitchfork%20Music/04-03-19%20-%20Manitoba%20-%20Up%20In%20Flames/09%20-%20Crayon.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>105278</key>
+		<dict>
+			<key>Track ID</key><integer>105278</integer>
+			<key>Name</key><string>Your Hand In Mine</string>
+			<key>Artist</key><string>Explosions In The Sky</string>
+			<key>Album</key><string>The Earth Is Not A Cold Dead Place</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11941888</integer>
+			<key>Total Time</key><integer>497502</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Date Modified</key><date>2009-12-28T12:42:01Z</date>
+			<key>Date Added</key><date>2009-12-28T12:40:31Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Earth Is Not A Cold Dead Place</string>
+			<key>Persistent ID</key><string>8D7E570129E52124</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Explosions%20in%20the%20Sky/5_your_hand_in_mine_.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>105292</key>
+		<dict>
+			<key>Track ID</key><integer>105292</integer>
+			<key>Name</key><string>First Breath After Coma</string>
+			<key>Artist</key><string>Explosions In The Sky</string>
+			<key>Album</key><string>The Earth Is Not A Cold Dead Place</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13760384</integer>
+			<key>Total Time</key><integer>573335</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2009-12-28T12:42:07Z</date>
+			<key>Date Added</key><date>2009-12-28T12:41:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Sort Album</key><string>Earth Is Not A Cold Dead Place</string>
+			<key>Persistent ID</key><string>434AB2AC710BB15E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Volumes/2TB/Music/locker/Explosions%20in%20the%20Sky/1_first_breath_after_coma.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
 	</dict>
 	<key>Playlists</key>
 	<array>
 		<dict>
 			<key>Name</key><string>2003</string>
-			<key>Playlist ID</key><integer>101690</integer>
+			<key>Playlist ID</key><integer>103598</integer>
 			<key>Playlist Persistent ID</key><string>67EDD0F3C7EBCFD3</string>
 			<key>Parent Persistent ID</key><string>3E849C79C2DC153F</string>
 			<key>All Items</key><true/>
 			<key>Playlist Items</key>
 			<array>
 				<dict>
-					<key>Track ID</key><integer>19547</integer>
+					<key>Track ID</key><integer>19839</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21105</integer>
+					<key>Track ID</key><integer>21397</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21813</integer>
+					<key>Track ID</key><integer>22105</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21815</integer>
+					<key>Track ID</key><integer>22107</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21817</integer>
+					<key>Track ID</key><integer>22109</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21821</integer>
+					<key>Track ID</key><integer>22113</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21823</integer>
+					<key>Track ID</key><integer>22115</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21827</integer>
+					<key>Track ID</key><integer>22119</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21831</integer>
+					<key>Track ID</key><integer>22123</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21835</integer>
+					<key>Track ID</key><integer>22127</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>21841</integer>
+					<key>Track ID</key><integer>22133</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>23233</integer>
+					<key>Track ID</key><integer>23525</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>23239</integer>
+					<key>Track ID</key><integer>23531</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>28995</integer>
+					<key>Track ID</key><integer>29287</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29025</integer>
+					<key>Track ID</key><integer>29317</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29041</integer>
+					<key>Track ID</key><integer>29333</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29043</integer>
+					<key>Track ID</key><integer>29335</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29045</integer>
+					<key>Track ID</key><integer>29337</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29047</integer>
+					<key>Track ID</key><integer>29339</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29051</integer>
+					<key>Track ID</key><integer>29343</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29107</integer>
+					<key>Track ID</key><integer>29399</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29109</integer>
+					<key>Track ID</key><integer>29401</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29115</integer>
+					<key>Track ID</key><integer>29407</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29117</integer>
+					<key>Track ID</key><integer>29409</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29123</integer>
+					<key>Track ID</key><integer>29415</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29127</integer>
+					<key>Track ID</key><integer>29419</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29209</integer>
+					<key>Track ID</key><integer>29501</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29221</integer>
+					<key>Track ID</key><integer>29513</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29341</integer>
+					<key>Track ID</key><integer>29633</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29345</integer>
+					<key>Track ID</key><integer>29637</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29351</integer>
+					<key>Track ID</key><integer>29643</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29373</integer>
+					<key>Track ID</key><integer>29665</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29377</integer>
+					<key>Track ID</key><integer>29669</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29425</integer>
+					<key>Track ID</key><integer>29717</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29549</integer>
+					<key>Track ID</key><integer>29841</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29585</integer>
+					<key>Track ID</key><integer>29877</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29607</integer>
+					<key>Track ID</key><integer>29899</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29623</integer>
+					<key>Track ID</key><integer>29915</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29625</integer>
+					<key>Track ID</key><integer>29917</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29627</integer>
+					<key>Track ID</key><integer>29919</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29645</integer>
+					<key>Track ID</key><integer>29937</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29659</integer>
+					<key>Track ID</key><integer>29951</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29675</integer>
+					<key>Track ID</key><integer>29967</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29689</integer>
+					<key>Track ID</key><integer>29981</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29707</integer>
+					<key>Track ID</key><integer>29999</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29709</integer>
+					<key>Track ID</key><integer>30001</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29901</integer>
+					<key>Track ID</key><integer>30193</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>29975</integer>
+					<key>Track ID</key><integer>30267</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30051</integer>
+					<key>Track ID</key><integer>30343</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30155</integer>
+					<key>Track ID</key><integer>30447</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30225</integer>
+					<key>Track ID</key><integer>30517</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30333</integer>
+					<key>Track ID</key><integer>30625</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30371</integer>
+					<key>Track ID</key><integer>30663</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30385</integer>
+					<key>Track ID</key><integer>30677</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30387</integer>
+					<key>Track ID</key><integer>30679</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30407</integer>
+					<key>Track ID</key><integer>30699</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30467</integer>
+					<key>Track ID</key><integer>30759</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30497</integer>
+					<key>Track ID</key><integer>30789</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30531</integer>
+					<key>Track ID</key><integer>30823</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30563</integer>
+					<key>Track ID</key><integer>30855</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30569</integer>
+					<key>Track ID</key><integer>30861</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30573</integer>
+					<key>Track ID</key><integer>30865</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>30601</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30665</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30671</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30707</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30717</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30787</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30801</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30839</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30845</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30847</integer>
-				</dict>
-				<dict>
-					<key>Track ID</key><integer>30851</integer>
+					<key>Track ID</key><integer>30893</integer>
 				</dict>
 				<dict>
 					<key>Track ID</key><integer>30957</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>31025</integer>
+					<key>Track ID</key><integer>30963</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16503</integer>
+					<key>Track ID</key><integer>30999</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15999</integer>
+					<key>Track ID</key><integer>31009</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16011</integer>
+					<key>Track ID</key><integer>31079</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11681</integer>
+					<key>Track ID</key><integer>31093</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>11699</integer>
+					<key>Track ID</key><integer>31131</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15603</integer>
+					<key>Track ID</key><integer>31137</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16505</integer>
+					<key>Track ID</key><integer>31139</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15969</integer>
+					<key>Track ID</key><integer>31143</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15993</integer>
+					<key>Track ID</key><integer>31249</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14749</integer>
+					<key>Track ID</key><integer>31317</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14751</integer>
+					<key>Track ID</key><integer>16795</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13113</integer>
+					<key>Track ID</key><integer>16291</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13115</integer>
+					<key>Track ID</key><integer>16303</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13121</integer>
+					<key>Track ID</key><integer>11973</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13131</integer>
+					<key>Track ID</key><integer>11991</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13137</integer>
+					<key>Track ID</key><integer>15895</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15973</integer>
+					<key>Track ID</key><integer>16797</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>15975</integer>
+					<key>Track ID</key><integer>16261</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14815</integer>
+					<key>Track ID</key><integer>16285</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14817</integer>
+					<key>Track ID</key><integer>15041</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14829</integer>
+					<key>Track ID</key><integer>15043</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14839</integer>
+					<key>Track ID</key><integer>13405</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14841</integer>
+					<key>Track ID</key><integer>13407</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13987</integer>
+					<key>Track ID</key><integer>13413</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>13989</integer>
+					<key>Track ID</key><integer>13423</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14001</integer>
+					<key>Track ID</key><integer>13429</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14003</integer>
+					<key>Track ID</key><integer>16265</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>14243</integer>
+					<key>Track ID</key><integer>16267</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16001</integer>
+					<key>Track ID</key><integer>15107</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42899</integer>
+					<key>Track ID</key><integer>15109</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42901</integer>
+					<key>Track ID</key><integer>15121</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42903</integer>
+					<key>Track ID</key><integer>15131</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42905</integer>
+					<key>Track ID</key><integer>15133</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42907</integer>
+					<key>Track ID</key><integer>14279</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42909</integer>
+					<key>Track ID</key><integer>14281</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42911</integer>
+					<key>Track ID</key><integer>14293</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42913</integer>
+					<key>Track ID</key><integer>14295</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42915</integer>
+					<key>Track ID</key><integer>14535</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42917</integer>
+					<key>Track ID</key><integer>16293</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>42919</integer>
+					<key>Track ID</key><integer>43191</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43051</integer>
+					<key>Track ID</key><integer>43193</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43055</integer>
+					<key>Track ID</key><integer>43195</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43057</integer>
+					<key>Track ID</key><integer>43197</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43059</integer>
+					<key>Track ID</key><integer>43199</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43061</integer>
+					<key>Track ID</key><integer>43201</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43063</integer>
+					<key>Track ID</key><integer>43203</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43069</integer>
+					<key>Track ID</key><integer>43205</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43071</integer>
+					<key>Track ID</key><integer>43207</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43073</integer>
+					<key>Track ID</key><integer>43209</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43077</integer>
+					<key>Track ID</key><integer>43211</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>43083</integer>
+					<key>Track ID</key><integer>43343</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16583</integer>
+					<key>Track ID</key><integer>43347</integer>
 				</dict>
 				<dict>
-					<key>Track ID</key><integer>16509</integer>
+					<key>Track ID</key><integer>43349</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>43375</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>29327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>105292</integer>
 				</dict>
 			</array>
 		</dict>

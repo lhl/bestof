@@ -6,3 +6,6 @@ The final results and more details are here: http://randomfoo.net/bestof
 generate/ - Python files to create JSON files from iTunes XML
 
 htdocs/ - PHP for playlist generation
+
+To debug:
+$ curl -A 'bestof-debug' http://randomfoo.net/bestof/track/43249
