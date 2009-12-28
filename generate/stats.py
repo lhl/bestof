@@ -4,25 +4,27 @@ import glob, json, sys
 
 
 total_artists = {}
+total_tracks = 0
 total_places = 0
-for jsonfile in glob.glob('2*.json'):
+for jsonfile in glob.glob('json/*.json'):
   print
-  print jsonfile
+  print jsonfile[5:]
   print '---'
 
   tracks = json.load(open(jsonfile, 'r'))
 
   # Songs
   num_songs = len(tracks)
+  total_tracks += num_songs
 
   # Artists
   artists = {}
   for track in tracks:
     try:
-      artists[track['artist']] += 1
+      artists[track['artist'].upper()] += 1
     except:
       try:
-        artists[track['artist']] = 1
+        artists[track['artist'].upper()] = 1
       except:
         print track
 
@@ -63,4 +65,6 @@ for jsonfile in glob.glob('2*.json'):
   # songs/artist
 
 print
+print "Total Artists:       ", len(total_artists)
+print "Total Tracks:        ", total_tracks
 print "Total Places:        ", total_places
