@@ -8,6 +8,15 @@
 <br />
 -->
 
+<pre>
+Songs from the 2000s
+======================================================================================
+
+* Read more about why at <a href="http://randomfoo.net/2009/12/28/songs-from-the-2000s">http://randomfoo.net/2009/12/28/songs-from-the-2000s</a>
+
+* Please don't directly link (this I think qualifies as fair use, but there's some
+  in the interest of making sure this stays up for friends to check out, please be 
+  discreet)
 
 <object type="application/x-shockwave-flash" width="500" height="400"
 data="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list">
@@ -15,16 +24,15 @@ data="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_ur
 value="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list" />
 </object>
 
-<pre>
 
-Code available: <a href="http://github.com/lhl/bestof/">http://github.com/lhl/bestof/</a>
-
-
-Playlist Generation Algorithm:
+Playlist Generation Algorithm (THE RULES):
 * 4 tracks per year
 * No repeated artists
 * Per-year shuffle based on artist (not songs)
 * TODO: (probably not) allow weighting?
+
+
+Code available here: <a href="http://github.com/lhl/bestof/">http://github.com/lhl/bestof/</a>
 
 
 Stats:

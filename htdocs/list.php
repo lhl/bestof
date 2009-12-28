@@ -169,12 +169,20 @@ function print_list($list) {
 */
 class Panda {
   // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.streams.getStream&api_key=5f3f4b8e198c126160ab0033cc8ec324&stream_id=1&format=json';
-  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.panda.getPhotos&api_key=5f3f4b8e198c126160ab0033cc8ec324&panda_name=ling+ling&format=json';
+  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.panda.getPhotos&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&panda_name=ling+ling&format=json';
+  // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.interestingness.getList&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&format=json';
   static $photos = array();
 
   function askFlickr() {
-    $p = json_decode(substr(file_get_contents(self::$endpoint), 14, -1), true);
+    global $nocache;
+    $cache = new Memcache;
+    $cache->connect('localhost', 11211) or die ("Could not connect to Memcache");
+    if((!$p = $cache->get('bestof.photos')) || $nocache) {
+      $p = json_decode(substr(file_get_contents(self::$endpoint), 14, -1), true);
+      $cache->set('bestof.photos', $p, 0, 86400);
+    }
     self::$photos = $p['photos']['photo'];
+    shuffle(self::$photos);
   }
 
   function getPhoto() {
