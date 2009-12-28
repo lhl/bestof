@@ -1,3 +1,8 @@
+<html>
+<head>
+  <title>Songs from the 2000s</title>
+</head>
+<body>
 <!--
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="500" id="mp3player" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" > 
   <param name="movie" value="/music/mp3player.swf?config=http://randomfoo.net/music/config.xml&file=http://randomfoo.net/bestof/list" /> 
@@ -11,17 +16,24 @@
 <pre>
 Songs from the 2000s
 ======================================================================================
+I've gone through way too much music this decade to make any sort of definitive
+"best of" (also, isn't that a bit pompous? have these critics listened to everything out
+there? then how can they say what's best? just sayin...)  Instead, what I've done is 
+picked out a crapload of (almost 1200) songs I liked/listened to over the decade and am
+dynamically creating a 4track x 10yearr list to create something that isn't impossible 
+to slog through and that should give a good taste of what my musical experience has been
+like. (both in terms of content, and the serendipity factor :)
 
 * Read more about why at <a href="http://randomfoo.net/2009/12/28/songs-from-the-2000s">http://randomfoo.net/2009/12/28/songs-from-the-2000s</a>
 
-* Please don't directly link (this I think qualifies as fair use, but there's some
-  in the interest of making sure this stays up for friends to check out, please be 
-  discreet)
+* Please don't directly link (this I think qualifies as fair use, but in the interest 
+  of making sure this stays up for friends to check out, please be discreet)
 
-<object type="application/x-shockwave-flash" width="500" height="400"
-data="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list">
-<param name="movie" 
-value="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list" />
+* If you don't like the playlist, just click reload. :)
+
+
+<object type="application/x-shockwave-flash" width="650" height="590" data="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list">
+<param name="movie" value="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list" />
 </object>
 
 
@@ -142,3 +154,5 @@ Total Tracks:         1150
 Total Places:         44
 
 </pre>
+</body>
+</html>
