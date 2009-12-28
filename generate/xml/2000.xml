@@ -270,8 +270,8 @@
 		<dict>
 			<key>Track ID</key><integer>14399</integer>
 			<key>Name</key><string>Blue Law</string>
-			<key>Artist</key><string>The Blue Law</string>
-			<key>Album</key><string>Silver Scooter</string>
+			<key>Artist</key><string>Silver Scooter</string>
+			<key>Album</key><string>The Blue Law</string>
 			<key>Genre</key><string>Indie</string>
 			<key>Kind</key><string>MPEG audio file</string>
 			<key>Size</key><integer>6884851</integer>
