@@ -169,8 +169,8 @@ function print_list($list) {
 */
 class Panda {
   // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.streams.getStream&api_key=5f3f4b8e198c126160ab0033cc8ec324&stream_id=1&format=json';
-  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.panda.getPhotos&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&panda_name=ling+ling&format=json';
-  // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.interestingness.getList&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&format=json';
+  // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.panda.getPhotos&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&panda_name=ling+ling&format=json';
+  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.interestingness.getList&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&format=json';
   static $photos = array();
 
   function askFlickr() {
