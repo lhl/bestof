@@ -23,7 +23,9 @@ Code available: <a href="http://github.com/lhl/bestof/">http://github.com/lhl/be
 Playlist Generation Algorithm:
 * 4 tracks per year
 * No repeated artists
-- TODO: shuffle based on Artists, not Songs
+* Per-year shuffle based on artist (not songs)
+* TODO: double check for missing songs
+* TODO: (maybe) allow weighting?
 
 
 Stats:

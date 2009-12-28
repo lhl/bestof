@@ -24,10 +24,11 @@ if($listid = $url[3]) {
 
 // Load bestof.json
 // apc: 5ms; memcache: 7ms; file: 12ms;
-if(! $bestof = apc_fetch('bestof.json')) {
+if($_SERVER['QUERY_STRING'] == 'nocache') { $nocache = 1; }
+if((!$bestof = apc_fetch('bestof.json')) || $nocache) {
   $cache = new Memcache;
   $cache->connect('localhost', 11211) or die ("Could not connect to Memcache");
-  if(!$bestof = $cache->get('bestof.json')) {
+  if((!$bestof = $cache->get('bestof.json')) || $nocache) {
     $bestof = json_decode(file_get_contents('bestof.json'), true);
 
     // apc
@@ -50,6 +51,25 @@ for($year=2000; $year<2010; $year++) {
     $slots = 4;
   }
 
+  /*** Per-Artist Shuffle ***/
+  $year_artists = array();
+  foreach($bestof[$year] as $track) {
+    $year_artists[strtoupper($track['artist'])][] = $track;  
+  }
+
+  shuffle($year_artists);
+
+  while($year_artists && $slots) {
+    $artist = array_pop($year_artists);
+    if(!check_artist($artist[0]['artist'])) {
+      shuffle($artist);
+      $playlist[] = $track = array_pop($artist);
+      add_artist($track['artist']);
+      $slots--;
+    }
+  }
+
+  /*** Per-Track Shuffling...
   // Randomize
   shuffle($bestof[$year]);
 
@@ -63,6 +83,7 @@ for($year=2000; $year<2010; $year++) {
     }
     
   }
+  ***/
 }
 
 print_list($playlist);
