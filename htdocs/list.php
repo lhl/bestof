@@ -148,11 +148,45 @@ function print_list($list) {
 
     print "    <duration>{$track['time']}</duration>\n";
     print "    <location>http://randomfoo.net/bestof/track/{$track['id']}</location>\n";
+
+    // Panda Power! (adds 5s to playlist generation)
+    print "    <image>" . Panda::getPhoto() . "</image>\n";
+
+
     print "  </track>\n";
   }
   print "</trackList>\n";
   print '</playlist>';
 }
 
+
+/*** PANDA ***/
+/*
+  Hacked from http://www.flickr.com/explore/panda
+  since the Pandas aren't super-well documented...
+  * http://www.flickr.com/services/api/flickr.panda.getList.html
+  * http://www.flickr.com/services/api/flickr.panda.getPhotos.html
+*/
+class Panda {
+  // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.streams.getStream&api_key=5f3f4b8e198c126160ab0033cc8ec324&stream_id=1&format=json';
+  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.panda.getPhotos&api_key=5f3f4b8e198c126160ab0033cc8ec324&panda_name=ling+ling&format=json';
+  static $photos = array();
+
+  function askFlickr() {
+    $p = json_decode(substr(file_get_contents(self::$endpoint), 14, -1), true);
+    self::$photos = $p['photos']['photo'];
+  }
+
+  function getPhoto() {
+    if(!self::$photos) { self::askFlickr(); }
+    if(self::$photos) {
+      $p = array_shift(self::$photos);
+      $url = 'http://farm' . $p['farm'] . '.static.flickr.com/' . 
+             $p['server'] . '/' . $p['id'] . '_' . $p['secret'] . '_m.jpg';
+      return $url;
+    }
+  }
+
+}
 
 ?>

@@ -2,15 +2,24 @@
 header('Content-type: audio/mpeg');
 
 // Discourage abuse...
-if($_SERVER['HTTP_REFERER']) exit; 
-if(strpos($_SERVER["HTTP_USER_AGENT"], 'Mozilla/') === FALSE) exit;
+if (strpos($_SERVER['HTTP_REFERER'], 'http://randomfoo.net/') !== 0) $exit++; 
+if(strpos($_SERVER["HTTP_USER_AGENT"], 'Mozilla/') === FALSE) $exit++;
 
-/* DEBUG
-$f = fopen('users', 'a');
-fwrite($f, 'Browser: ' . $_SERVER["HTTP_USER_AGENT"] . "\n");
-fwrite($f, 'Referer: ' . $_SERVER["'HTTP_REFERER'"] . "\n\n");
-fclose($f);
-*/
+// DEBUG
+if($_SERVER["HTTP_USER_AGENT"] == 'bestof-debug') {
+  $debug = 1;
+}
+
+if($exit && !$debug) {
+  /* DEBUG */
+  $f = fopen('users', 'a');
+  fwrite($f, date('r') . "\n");
+  fwrite($f, 'Browser: ' . $_SERVER["HTTP_USER_AGENT"] . "\n");
+  fwrite($f, 'Referer: ' . $_SERVER["HTTP_REFERER"] . "\n\n");
+  fclose($f);
+  /* */
+  exit();
+}
 
 // Check simple play limiter
 // Just to keep the server from melting down...
@@ -60,7 +69,13 @@ if(! $bestof = apc_fetch('bestof.json')) {
 foreach($bestof as $year) {
   foreach($year as $track) {
     if($track['id'] == $trackid) {
-      $path = urldecode($track['file']);
+      $path = html_entity_decode(urldecode($track['file']));
+
+      if($debug) {
+        print $path . "\n";
+        exit;
+      }
+
       if(is_file($file = $path)) {
         $s = stat($file);
         header('Content-length: ' . $s['size']);

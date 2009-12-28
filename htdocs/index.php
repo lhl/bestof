@@ -10,9 +10,9 @@
 
 
 <object type="application/x-shockwave-flash" width="500" height="400"
-data="http://randomfoo.net/bestof/player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list">
+data="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list">
 <param name="movie" 
-value="http://randomfoo.net/bestof/player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list" />
+value="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list" />
 </object>
 
 <pre>
@@ -24,104 +24,100 @@ Playlist Generation Algorithm:
 * 4 tracks per year
 * No repeated artists
 * Per-year shuffle based on artist (not songs)
-* TODO: double check for missing songs
-* TODO: (maybe) allow weighting?
+* TODO: (probably not) allow weighting?
 
 
 Stats:
 
-1086 Tracks
-493 Unique Artists
-
 2000.json
 ---
-# of songs:           38
-# of artists:         25
-# of unique artists:  25
+# of songs:           54
+# of artists:         38
+# of unique artists:  38
 # of list places:     3
-song/place ratio:     12.7
-artist/place ratio:   8.3
-unique/place ratio:   8.3
+song/place ratio:     18.0
+artist/place ratio:   12.7
+unique/place ratio:   12.7
 
 2001.json
 ---
-# of songs:           45
-# of artists:         35
-# of unique artists:  34
+# of songs:           57
+# of artists:         40
+# of unique artists:  36
 # of list places:     3
-song/place ratio:     15.0
-artist/place ratio:   11.7
-unique/place ratio:   11.3
+song/place ratio:     19.0
+artist/place ratio:   13.3
+unique/place ratio:   12.0
 
 2002.json
 ---
-# of songs:           90
-# of artists:         59
-# of unique artists:  49
+# of songs:           92
+# of artists:         60
+# of unique artists:  50
 # of list places:     5
-song/place ratio:     18.0
-artist/place ratio:   11.8
-unique/place ratio:   9.8
+song/place ratio:     18.4
+artist/place ratio:   12.0
+unique/place ratio:   10.0
 
 2003.json
 ---
-# of songs:           128
-# of artists:         68
-# of unique artists:  55
+# of songs:           133
+# of artists:         69
+# of unique artists:  53
 # of list places:     5
-song/place ratio:     25.6
-artist/place ratio:   13.6
-unique/place ratio:   11.0
+song/place ratio:     26.6
+artist/place ratio:   13.8
+unique/place ratio:   10.6
 
 2004.json
 ---
-# of songs:           102
-# of artists:         66
+# of songs:           107
+# of artists:         70
 # of unique artists:  39
 # of list places:     3
-song/place ratio:     34.0
-artist/place ratio:   22.0
+song/place ratio:     35.7
+artist/place ratio:   23.3
 unique/place ratio:   13.0
 
 2005.json
 ---
-# of songs:           135
+# of songs:           137
 # of artists:         71
-# of unique artists:  45
+# of unique artists:  44
 # of list places:     5
-song/place ratio:     27.0
+song/place ratio:     27.4
 artist/place ratio:   14.2
-unique/place ratio:   9.0
+unique/place ratio:   8.8
 
 2006.json
 ---
-# of songs:           134
-# of artists:         91
+# of songs:           139
+# of artists:         92
 # of unique artists:  63
 # of list places:     5
-song/place ratio:     26.8
-artist/place ratio:   18.2
+song/place ratio:     27.8
+artist/place ratio:   18.4
 unique/place ratio:   12.6
 
 2007.json
 ---
-# of songs:           166
-# of artists:         116
+# of songs:           174
+# of artists:         120
 # of unique artists:  79
 # of list places:     5
-song/place ratio:     33.2
-artist/place ratio:   23.2
+song/place ratio:     34.8
+artist/place ratio:   24.0
 unique/place ratio:   15.8
 
 2008.json
 ---
-# of songs:           144
-# of artists:         103
-# of unique artists:  71
+# of songs:           153
+# of artists:         109
+# of unique artists:  70
 # of list places:     5
-song/place ratio:     28.8
-artist/place ratio:   20.6
-unique/place ratio:   14.2
+song/place ratio:     30.6
+artist/place ratio:   21.8
+unique/place ratio:   14.0
 
 2009.json
 ---
@@ -133,7 +129,8 @@ song/place ratio:     20.8
 artist/place ratio:   15.2
 unique/place ratio:   9.8
 
+Total Artists:        521
+Total Tracks:         1150
 Total Places:         44
-
 
 </pre>
