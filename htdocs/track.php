@@ -2,8 +2,9 @@
 header('Content-type: audio/mpeg');
 
 // Discourage abuse...
-if (strpos($_SERVER['HTTP_REFERER'], 'http://randomfoo.net/') !== 0) $exit++; 
+if(strpos($_SERVER['HTTP_REFERER'], 'http://randomfoo.net/') !== 0) $exit++; 
 if(strpos($_SERVER["HTTP_USER_AGENT"], 'Mozilla/') === FALSE) $exit++;
+if(!$_SERVER['HTTP_REFERER'] && strpos($_SERVER["HTTP_USER_AGENT"], 'Gecko/')) $exit--;
 
 // DEBUG
 if($_SERVER["HTTP_USER_AGENT"] == 'bestof-debug') {
@@ -23,7 +24,7 @@ if($exit && !$debug) {
 
 // Check simple play limiter
 // Just to keep the server from melting down...
-$hits_per_second = 4;
+$hits_per_second = 5;
 $cache = new Memcache;
 $cache->connect('localhost', 11211) or die;
 $hits = $cache->get('bestof:ratelimiter');
@@ -35,6 +36,11 @@ if($hits < $hits_per_second) {
   // More than hits_per_second!
   header('Content-type: text/plain');
   print "Over the limit!";
+
+  $f = fopen('limit', 'a');
+  fwrite($f, date('r') . "\n");
+  fclose($f);
+
   exit;
 }
 
