@@ -1,0 +1,12 @@
+# INPUT
+xml/         Save iTunes Playlist exports here
+
+# RUN
+makejson.py  Create JSON file in json/
+run.sh       Run for all years
+megajson.py  Make a single big JSON file
+stat.py      Calculate stats/counts
+
+# OUTPUT
+json/       Generated JSON files appear here
+bestof.json Single big JSON file
