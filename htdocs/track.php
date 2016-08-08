@@ -45,8 +45,7 @@ $cache->addServer('localhost', 11211) or die ('Could not connect');
 $hits = $cache->get('bestof.ratelimiter');
 if(!$hits) { $hits = 0; }
 if($hits < $limit) {
-  $hits++;
-  $cache->set('bestof.ratelimiter', $hits, 0, $limit_time);
+  $cache->increment('bestof.ratelimiter', 1, 0, $limit_time);
 } else {
   // More than hits_per_second!
   header('Content-type: text/plain');
