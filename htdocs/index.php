@@ -45,8 +45,8 @@ if($hits >= $limit) {
   print "<b style='color:orange'>WARNING: near rate limit</b>\n";
 }
 ?>
-<object type="application/x-shockwave-flash" width="650" height="590" data="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list">
-<param name="movie" value="http://randomfoo.net/bestof/player/xspf_player/xspf_player.swf?playlist_url=http://randomfoo.net/bestof/list" />
+<object type="application/x-shockwave-flash" width="650" height="590" data="/bestof/player/xspf_player/xspf_player.swf?playlist_url=https://randomfoo.net/bestof/list">
+<param name="movie" value="/bestof/player/xspf_player/xspf_player.swf?playlist_url=https://randomfoo.net/bestof/list" />
 </object>
 
 
@@ -57,10 +57,10 @@ Playlist Generation Algorithm (THE RULES):
 * TODO: (probably not) allow weighting?
 
 
-Special shoutz to Flickr for their super-painless REST/JSON <a href="http://www.flickr.com/services/api/flickr.interestingness.getList.html">interestingness feed</a>.
+Special shoutz to Flickr for their super-painless REST/JSON <a href="https://www.flickr.com/services/api/flickr.interestingness.getList.html">interestingness feed</a>.
 
 
-Code available here: <a href="http://github.com/lhl/bestof/">http://github.com/lhl/bestof/</a>
+Code available here: <a href="https://github.com/lhl/bestof/">https://github.com/lhl/bestof/</a>
 
 
 Stats:
