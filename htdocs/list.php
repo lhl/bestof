@@ -25,16 +25,11 @@ if($listid = $url[3]) {
 // Load bestof.json
 // apc: 5ms; memcache: 7ms; file: 12ms;
 if($_SERVER['QUERY_STRING'] == 'nocache') { $nocache = 1; }
-if((!$bestof = apc_fetch('bestof.json')) || $nocache) {
-  $cache = new Memcache;
-  $cache->connect('localhost', 11211) or die ("Could not connect to Memcache");
+if((!$bestof = $cache->get('bestof.json')) || $nocache) {
+  $cache = new Memcached;
+  $cache->addServer('localhost', 11211) or die ("Could not connect");
   if((!$bestof = $cache->get('bestof.json')) || $nocache) {
     $bestof = json_decode(file_get_contents('bestof.json'), true);
-
-    // apc
-    apc_store('bestof.json', $bestof);
-
-    // memcache
     $cache->set('bestof.json', $bestof);
   }
 }
@@ -170,13 +165,13 @@ function print_list($list) {
 class Panda {
   // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.streams.getStream&api_key=5f3f4b8e198c126160ab0033cc8ec324&stream_id=1&format=json';
   // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.panda.getPhotos&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&panda_name=ling+ling&format=json';
-  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.interestingness.getList&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&format=json';
+  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.interestingness.getList&api_key=6c2dba48efdbccaced44ea0b445fecbf&per_page=200&format=json';
   static $photos = array();
 
   function askFlickr() {
     global $nocache;
-    $cache = new Memcache;
-    $cache->connect('localhost', 11211) or die ("Could not connect to Memcache");
+    $cache = new Memcached;
+    $cache->addServer('localhost', 11211) or die ("Could not connect");
     if((!$p = $cache->get('bestof.photos')) || $nocache) {
       $p = json_decode(substr(file_get_contents(self::$endpoint), 14, -1), true);
       $cache->set('bestof.photos', $p, 0, 86400);
