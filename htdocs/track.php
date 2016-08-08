@@ -2,21 +2,22 @@
 header('Content-type: audio/mpeg');
 
 // Discourage abuse...
-if(strpos($_SERVER['HTTP_REFERER'], 'http://randomfoo.net/') !== 0) $exit++; 
-if(strpos($_SERVER["HTTP_USER_AGENT"], 'Mozilla/') === FALSE) $exit++;
-if(!$_SERVER['HTTP_REFERER'] && strpos($_SERVER["HTTP_USER_AGENT"], 'Gecko/')) $exit--;
+if($_SERVER['HTTP_REFERER'] && strpos($_SERVER['HTTP_REFERER'], 'https://randomfoo.net/') !== 0) $exit++; 
+if(strpos($_SERVER['HTTP_USER_AGENT'], 'Mozilla/') === FALSE) $exit++;
+if(!$_SERVER['HTTP_REFERER'] && strpos($_SERVER['HTTP_USER_AGENT'], 'Gecko/')) $exit--;
 
 // DEBUG
-if($_SERVER["HTTP_USER_AGENT"] == 'bestof-debug') {
+if($_SERVER['HTTP_USER_AGENT'] == 'bestof-debug') {
   $debug = 1;
 }
+$debug = 1;
 
 if($exit && !$debug) {
   /* DEBUG */
   $f = fopen('users', 'a');
   fwrite($f, date('r') . "\n");
-  fwrite($f, 'Browser: ' . $_SERVER["HTTP_USER_AGENT"] . "\n");
-  fwrite($f, 'Referer: ' . $_SERVER["HTTP_REFERER"] . "\n\n");
+  fwrite($f, 'Browser: ' . $_SERVER['HTTP_USER_AGENT'] . "\n");
+  fwrite($f, 'Referer: ' . $_SERVER['HTTP_REFERER'] . "\n\n");
   fclose($f);
   /* */
   header('HTTP/1.1 403 Forbidden'); 
@@ -36,7 +37,7 @@ $limit = 50;
 $limit_time = 300; // 5 minutes (~1 track)
 
 $cache = new Memcached;
-$cache->addServer('localhost', 11211) or die ("Could not connect");
+$cache->addServer('localhost', 11211) or die ('Could not connect');
 
 $hits = $cache->get('bestof.ratelimiter');
 if(!$hits) { $hits = 0; }
@@ -46,7 +47,7 @@ if($hits < $limit) {
 } else {
   // More than hits_per_second!
   header('Content-type: text/plain');
-  print "Over the limit!";
+  print 'Over the limit!';
 
   $f = fopen('limit', 'a');
   fwrite($f, date('r') . "\n");
