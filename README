@@ -1,11 +1,11 @@
 This project contains the scripts I use both to generate and to show my 
 Songs from the 2000s playlist. (It's dynamically generated from a large pool of songs).
 
-The final results and more details are here: http://randomfoo.net/bestof
+The final results and more details are here: https://randomfoo.net/bestof
 
 generate/ - Python files to create JSON files from iTunes XML
 
 htdocs/ - PHP for playlist generation
 
 To debug:
-$ curl -A 'bestof-debug' http://randomfoo.net/bestof/track/43249
+$ curl -A 'bestof-debug' https://randomfoo.net/bestof/track/43249
