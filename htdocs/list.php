@@ -141,7 +141,7 @@ function print_list($list) {
     }
 
     print "    <duration>{$track['time']}</duration>\n";
-    print "    <location>http://randomfoo.net/bestof/track/{$track['id']}</location>\n";
+    print "    <location>https://randomfoo.net/bestof/track/{$track['id']}</location>\n";
 
     // Panda Power! (adds 5s to playlist generation)
     print "    <image>" . Panda::getPhoto() . "</image>\n";
@@ -164,7 +164,7 @@ function print_list($list) {
 class Panda {
   // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.streams.getStream&api_key=5f3f4b8e198c126160ab0033cc8ec324&stream_id=1&format=json';
   // static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.panda.getPhotos&api_key=5f3f4b8e198c126160ab0033cc8ec324&per_page=200&panda_name=ling+ling&format=json';
-  static $endpoint = 'http://www.flickr.com/services/rest/?method=flickr.interestingness.getList&api_key=6c2dba48efdbccaced44ea0b445fecbf&per_page=200&format=json';
+  static $endpoint = 'https://www.flickr.com/services/rest/?method=flickr.interestingness.getList&api_key=6c2dba48efdbccaced44ea0b445fecbf&per_page=200&format=json';
   static $photos = array();
 
   function askFlickr() {
