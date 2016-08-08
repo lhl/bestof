@@ -5,7 +5,6 @@
 // header('Content-type: text/plain');
 header('Content-type: application/xspf+xml');
 
-
 // Timer
 Timer::start();
 
@@ -21,13 +20,13 @@ if($listid = $url[3]) {
   }
 }
 
-
 // Load bestof.json
 // apc: 5ms; memcache: 7ms; file: 12ms;
+$cache = new Memcached;
+$cache->addServer('localhost', 11211) or die ("Could not connect");
+
 if($_SERVER['QUERY_STRING'] == 'nocache') { $nocache = 1; }
 if((!$bestof = $cache->get('bestof.json')) || $nocache) {
-  $cache = new Memcached;
-  $cache->addServer('localhost', 11211) or die ("Could not connect");
   if((!$bestof = $cache->get('bestof.json')) || $nocache) {
     $bestof = json_decode(file_get_contents('bestof.json'), true);
     $cache->set('bestof.json', $bestof);
