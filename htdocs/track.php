@@ -1,6 +1,10 @@
 <?php
 header('Content-type: audio/mpeg');
 
+/*
+TODO: We could assign and check $_SESSION['bestof'] if we wanted to
+*/
+
 // Discourage abuse...
 if($_SERVER['HTTP_REFERER'] && strpos($_SERVER['HTTP_REFERER'], 'https://randomfoo.net/') !== 0) $exit++; 
 if(strpos($_SERVER['HTTP_USER_AGENT'], 'Mozilla/') === FALSE) $exit++;
@@ -10,7 +14,6 @@ if(!$_SERVER['HTTP_REFERER'] && strpos($_SERVER['HTTP_USER_AGENT'], 'Gecko/')) $
 if($_SERVER['HTTP_USER_AGENT'] == 'bestof-debug') {
   $debug = 1;
 }
-$debug = 1;
 
 if($exit && !$debug) {
   /* DEBUG */
