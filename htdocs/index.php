@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="js/soundmanager/demo/page-player/css/page-player.css">
 <link rel="stylesheet" type="text/css" href="js/soundmanager/demo/page-player/css/optional-themes.css">
 <link rel="stylesheet" type="text/css" href="js/soundmanager/demo/flashblock/flashblock.css" />
-<script src="js/soundmanager/script/soundmanager2.js"></script>
+<script src="js/soundmanager/script/soundmanager2-nodebug-jsmin.js"></script>
 <script src="js/soundmanager/demo/page-player/script/page-player.js"></script>
 
 <style>
