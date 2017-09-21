@@ -2,33 +2,43 @@
 <html>
 <head>
 <title>Songs from the 2000s</title>
-
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="js/xspf_parser.js"></script>
 
-<!-- Able Player https://github.com/ableplayer/ableplayer -->
-<!-- Dependencies -->
-<script src="js/ableplayer-3.0/thirdparty/modernizr.custom.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script src="js/ableplayer-3.0/thirdparty/js.cookie.js"></script>
- 
-<!-- CSS --> 
-<link rel="stylesheet" href="js/ableplayer-3.0/build/ableplayer.min.css" type="text/css"/>
- 
-<!-- JavaScript -->
-<script src="js/ableplayer-3.0/build/ableplayer.js"></script>
+<!-- SM2 -->
+<link rel="stylesheet" type="text/css" href="js/soundmanager/demo/page-player/css/page-player.css">
+<link rel="stylesheet" type="text/css" href="js/soundmanager/demo/page-player/css/optional-themes.css">
+<link rel="stylesheet" type="text/css" href="js/soundmanager/demo/flashblock/flashblock.css" />
+<script src="js/soundmanager/script/soundmanager2.js"></script>
+<script src="js/soundmanager/demo/page-player/script/page-player.js"></script>
 
+<style>
+#playlist1 {
+  font-family: monospace;
+}
+#playlist1 li {
+  font-size: 1.2em;
+  margin-bottom: 2px;
+}
+
+</style>
+<script>
+soundManager.setup({
+  html5PollingInterval: 50
+});
+
+var PP_CONFIG = {
+  autoStart: false,      // begin playing first sound when page loads
+  playNext: true,        // stop after one sound, or play through list until end
+  useThrottling: false,  // try to rate-limit potentially-expensive calls (eg. dragging position around)</span>
+  usePeakData: false,     // [Flash 9 only] whether or not to show peak data (left/right channel values) - nor noticable on CPU
+  useWaveformData: false,// [Flash 9 only] show raw waveform data - WARNING: LIKELY VERY CPU-HEAVY
+  useEQData: false,      // [Flash 9 only] show EQ (frequency spectrum) data
+  useFavIcon: false     // try to apply peakData to address bar (Firefox + Opera) - performance note: appears to make Firefox 3 do some temporary, heavy disk access/swapping/garbage collection at first(?) - may be too heavy on CPU
+}
+</script>
 </head>
 <body>
-<!--
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="500" id="mp3player" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" > 
-  <param name="movie" value="/music/mp3player.swf?config=http://randomfoo.net/music/config.xml&file=http://randomfoo.net/bestof/list" /> 
-  <param name="wmode" value="transparent" /> 
-  <embed src="/music/mp3player.swf?config=http://randomfoo.net/music/config.xml&file=http://randomfoo.net/bestof/list" wmode="transparent" width="400" height="500" name ="mp3player" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /> 
-</object> 
-
-<br />
--->
-
 <pre>
 Songs from the 2000s
 ======================================================================================
@@ -49,8 +59,8 @@ experience has been like (both in terms of content, and the serendipity factor).
 
 * If you don't like the playlist, just click reload. :)
 
-* 2017-09-20 UPDATE: I've replaced the old player with a new HTML5 player. The original
-  Flash player version is <a href="flash">available here</a>.
+* 2017-09-20 UPDATE: I've replaced the old player with SM2 (should have HTML5 support).
+  The original Flash player version is <a href="flash">available here</a>.
 
 
 <?php
@@ -64,12 +74,13 @@ if($hits >= $limit) {
   print "<b style='color:orange'>WARNING: near rate limit</b>\n";
 }
 ?>
+</pre>
 
-<!-- Player -->
-<audio id="audio1" width="600" preload="none" data-able-player>
-</audio>
+<div id="sm2-container">
+<!-- SM2 flash goes here -->
+</div>
 
-<ul id="playlist1" class="able-playlist" data-player="audio1" data-embedded>
+<ul id="playlist1" class="playlist dark">
 </ul>
 <script>
   $.ajax({
@@ -81,17 +92,13 @@ if($hits >= $limit) {
       var jspf = XSPF.toJSPF(data);
       var tracks = jspf.playlist.track;
       for(i=0; i < tracks.length; i++) {
-        $("#playlist1").append("<li data-mp3='" + tracks[i].location[0] + "'>" + tracks[i].annotation + "</li>");
-      
+        $("#playlist1").append("<li><a class='playable' href='" + tracks[i].location[0] + "'>" + tracks[i].annotation + "</a></li>");
       }
     }
   });
 </script>
 
-
-<object type="application/x-shockwave-flash" width="650" height="590" data="/bestof/player/xspf_player/xspf_player.swf?playlist_url=https://randomfoo.net/bestof/list">
-<param name="movie" value="/bestof/player/xspf_player/xspf_player.swf?playlist_url=https://randomfoo.net/bestof/list" />
-</object>
+<pre>
 
 
 Playlist Generation Algorithm (THE RULES):
