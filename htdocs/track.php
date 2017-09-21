@@ -119,6 +119,7 @@ foreach($bestof as $year) {
 
       if(is_file($file = $path)) {
         $s = stat($file);
+        header('Content-type: audio/mpeg');
         header('Content-length: ' . $s['size']);
         readfile($file);
       }
