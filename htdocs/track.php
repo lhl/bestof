@@ -94,6 +94,9 @@ foreach($bestof as $year) {
 
       // Fixups
       switch($trackid) {
+        case 19839:
+          $path = "/locker/music/Amadou & Mariam - 2003 - Dimanche à Bamako/10 - La Paix.mp3";
+          break;
         case 27589:
           // Unicode é (good) vs é (bad)
           $path = "/locker/music/Yann Tiersen - 2001 - Amelie OST (Le Fabuleux Destin d'Amélie Poulain)/02 - Yann Tiersen - Les jours tristes.mp3";
@@ -109,6 +112,9 @@ foreach($bestof as $year) {
           break;
         case 39781:
           $path = "/locker/music/Detektivbyrån - 2006 - Hemvägen EP/07 - Vänerhavet.mp3";
+          break;
+        case 43933:
+          $path = "/locker/music/CéU - 2007 - CéU/14 CéU - Bobagem.mp3";
           break;
       }
 
