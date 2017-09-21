@@ -1,22 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Songs from the 2000s</title>
-
-<script src="js/xspf_parser.js"></script>
-
-<!-- Able Player https://github.com/ableplayer/ableplayer -->
-<!-- Dependencies -->
-<script src="js/ableplayer-3.0/thirdparty/modernizr.custom.js"></script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-<script src="js/ableplayer-3.0/thirdparty/js.cookie.js"></script>
- 
-<!-- CSS --> 
-<link rel="stylesheet" href="js/ableplayer-3.0/build/ableplayer.min.css" type="text/css"/>
- 
-<!-- JavaScript -->
-<script src="js/ableplayer-3.0/build/ableplayer.js"></script>
-
+  <title>Songs from the 2000s</title>
 </head>
 <body>
 <!--
@@ -49,9 +33,6 @@ experience has been like (both in terms of content, and the serendipity factor).
 
 * If you don't like the playlist, just click reload. :)
 
-* 2017-09-20 UPDATE: I've replaced the old player with a new HTML5 player. The original
-  Flash player version is <a href="flash">available here</a>.
-
 
 <?php
 $limit = 50;
@@ -64,31 +45,6 @@ if($hits >= $limit) {
   print "<b style='color:orange'>WARNING: near rate limit</b>\n";
 }
 ?>
-
-<!-- Player -->
-<audio id="audio1" width="600" preload="none" data-able-player>
-</audio>
-
-<ul id="playlist1" class="able-playlist" data-player="audio1" data-embedded>
-</ul>
-<script>
-  $.ajax({
-    url: "https://randomfoo.net/bestof/list", 
-    dataType: "xml",
-    async: false,
-    success: function(data) {
-      // console.log(data);
-      var jspf = XSPF.toJSPF(data);
-      var tracks = jspf.playlist.track;
-      for(i=0; i < tracks.length; i++) {
-        $("#playlist1").append("<li data-mp3='" + tracks[i].location[0] + "'>" + tracks[i].annotation + "</li>");
-      
-      }
-    }
-  });
-</script>
-
-
 <object type="application/x-shockwave-flash" width="650" height="590" data="/bestof/player/xspf_player/xspf_player.swf?playlist_url=https://randomfoo.net/bestof/list">
 <param name="movie" value="/bestof/player/xspf_player/xspf_player.swf?playlist_url=https://randomfoo.net/bestof/list" />
 </object>
